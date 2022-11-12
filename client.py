@@ -12,7 +12,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             continue
         s.sendall(f'{d}'.encode())
         data = s.recv(1024)
-        if d == 'close':
+        if d.strip() == 'close':
             print('You have closed the connection. Have a great day!')
             break
         print(f"Received {data.decode()}")
