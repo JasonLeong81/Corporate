@@ -2,7 +2,7 @@
 import joblib
 
 
-def prediction():
+def prediction(business_location,business_nature,business_product,filename='model.sav'):
     def clean(x):
         x = x.lower()
         x = x.strip('.')
@@ -28,11 +28,7 @@ def prediction():
     print(s1)
 
 
-
-    business_location = input('Enter your location: ')
-    business_nature = input('Enter your business nature: ')
-    business_product = int(input('Enter your business product (0-4): '))
-
+    business_product = int(business_product)
     business_location = clean(business_location)
     business_nature = clean(business_nature)
 
@@ -52,6 +48,7 @@ def prediction():
 
     test_data = [list(s1.values())]
     print('Prediction: ',loaded_model.predict(test_data))
+    return loaded_model.predict(test_data)
 
 
 if __name__ == '__main__':
