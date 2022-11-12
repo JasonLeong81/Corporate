@@ -4,6 +4,8 @@ import pickle
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.model_selection import train_test_split
 import pickle
+import joblib
+
 
 def clean(x):
     x = x.lower()
@@ -39,9 +41,11 @@ y = df['Item Code']
 df = df.drop('Item Code',axis=1)
 X = df1
 
+
 X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.1, random_state=42,shuffle=True)
 print('Train test split done!')
-import joblib
+
+print(X_train.columns)
 
 print('Training')
 clf = GradientBoostingClassifier(n_estimators=20, learning_rate=0.01,max_depth=5, random_state=0).fit(X_train, y_train)
