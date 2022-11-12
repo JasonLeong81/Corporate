@@ -1,0 +1,584 @@
+Company Address,Business Nature,Item Code,Item Desc,Nov 2021 Quantity,Dec 2021 Quantity,Jan 2022 Quantity,Feb 2022 Quantity,Mar 2022 Quantity,Apr 2022 Quantity,May 2022 Quantity,Jun 2022 Quantity,Jul 2022 Quantity,Aug 2022 Quantity,Sep 2022 Quantity,Oct 2022 Quantity,Total Quantity
+PUCHONG,Personal Care manufacturer,B000267,M11-1-500ml (Clear) ,0.0,0.0,0.0,0.0,20000.0,0.0,22000.0,10000.0,10000.0,0.0,10000.0,10000.0,82000.0
+PUCHONG,Personal Care manufacturer,B000713,C3-600ml HDPE Bottle (White) ,0.0,0.0,0.0,0.0,0.0,0.0,8000.0,0.0,0.0,0.0,0.0,0.0,8000.0
+PUCHONG,Personal Care manufacturer,B000922,M3-750ml SN (Clear) Surebuy H/Wash 750ml,10000.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0
+PUCHONG,Personal Care manufacturer,B000930,M11-5-250ml (Clear),11000.0,5000.0,0.0,10000.0,0.0,0.0,5000.0,0.0,10000.0,5000.0,0.0,0.0,46000.0
+PUCHONG,Personal Care manufacturer,B000965,M9-150ml LN (Clear) Beaute Life Olive Oil 150ml,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,5000.0
+PUCHONG,Personal Care manufacturer,B002200,M8-1000ml-B (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13000.0,0.0,0.0,13000.0
+PUCHONG,Personal Care manufacturer,B002201,C3-750ml HDPE (S/White 00185),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0
+PUCHONG,Personal Care manufacturer,CP00102,C1-20  Flip Top Sc Cap - S/Green 60331,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,6000.0,0.0,11000.0
+PUCHONG,Personal Care manufacturer,CP00781,MP2427 F/ Top Smooth ( 4)  Sc Cap -2mm,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,10000.0
+DAMANSARA,Pharmaceutical ,B000250,M1-500ml SN (Clear),0.0,0.0,0.0,0.0,0.0,5000.0,5000.0,0.0,0.0,10000.0,0.0,0.0,20000.0
+DAMANSARA,Pharmaceutical ,B000679,M2-250ml LN (Clear),0.0,0.0,0.0,0.0,0.0,5100.0,0.0,0.0,0.0,5000.0,0.0,0.0,10100.0
+DAMANSARA,Pharmaceutical ,B001079,M11-6-500ML PET Bottle (Clear) ,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,30100.0,0.0,0.0,0.0,35100.0
+DAMANSARA,Pharmaceutical ,B001272,M8-1000ml-A (Clear),0.0,0.0,0.0,5000.0,5000.0,10000.0,0.0,0.0,0.0,0.0,15000.0,0.0,35000.0
+DAMANSARA,Pharmaceutical ,B001716,M5-150ml-B1 LN ( T/Amber 33626-2.3% ),0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,7200.0,0.0,12200.0
+DAMANSARA,Pharmaceutical ,B001735,M2-50ml LN (Clear),0.0,0.0,0.0,68000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,68000.0
+DAMANSARA,Pharmaceutical ,B001770,M5-1000ml (B1) PET Bottle (T/White),0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+DAMANSARA,Pharmaceutical ,B001817,M3-500ml SN (Clear),10000.0,34710.0,0.0,129680.0,75910.0,51200.0,0.0,0.0,0.0,0.0,50000.0,0.0,351500.0
+DAMANSARA,Pharmaceutical ,B002037,M2-75ml LN (Clear),10500.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,20500.0
+DAMANSARA,Pharmaceutical ,B002038,M3-750ml SN (Clear) ,10500.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,20500.0
+DAMANSARA,Pharmaceutical ,B002095,M15-750ml (Clear),0.0,0.0,15100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15100.0
+DAMANSARA,Pharmaceutical ,B002096,M5-300ML (A1) PET Bottle - SN (S/White) ,0.0,0.0,0.0,5100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5100.0
+DAMANSARA,Pharmaceutical ,B002115,M11-2-500ml-C (T/Green 6376),0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+DAMANSARA,Pharmaceutical ,CP00080,C1-20  Flip Top Sc Cap -S/White 7380,10200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,20200.0
+DAMANSARA,Pharmaceutical ,CP01184,C2-24  Flip Top Sc Cap - T/Green 62569,0.0,0.0,5000.0,0.0,0.0,5100.0,0.0,0.0,0.0,5000.0,6400.0,0.0,21500.0
+DAMANSARA,Pharmaceutical ,CP01468,MP3740 Flip Top SN Cap (Talcum)-S/White 7380,0.0,0.0,39000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21000.0,0.0,60000.0
+DAMANSARA,Pharmaceutical ,CP01737,M2023 Flip Top Sc Cap - S/White  7380,0.0,0.0,70000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70000.0
+DAMANSARA,Pharmaceutical ,CP01805,M1228 Dishwash Flip Top Sc Cap - S/Black ,0.0,0.0,100001.0,147000.0,0.0,20000.0,0.0,0.0,0.0,0.0,59000.0,0.0,326001.0
+DAMANSARA,Pharmaceutical ,CP01920,Tamper Proof Mouthwash Cap  - S/Black 2705,0.0,0.0,15000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15000.0
+DAMANSARA,Personal Care Manufacturer,B000308,M12-100ml Mouthwash Bottle (S/White 27810),0.0,0.0,0.0,15100.0,20000.0,0.0,0.0,0.0,0.0,0.0,0.0,19500.0,54600.0
+DAMANSARA,Personal Care Manufacturer,B002101,M12-250ml Mouthwash bottle (Clear) ,0.0,0.0,10500.0,0.0,10000.0,10000.0,10000.0,0.0,0.0,0.0,60000.0,0.0,100500.0
+DAMANSARA,Personal Care Manufacturer,B002111,M12-750ml Mouthwash bottle (Clear),0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0,10000.0,40000.0
+DAMANSARA,Personal Care Manufacturer,B002121,M12-300ml Mouthwash bottle (Clear),0.0,0.0,0.0,0.0,12000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12000.0
+DAMANSARA,Personal Care Manufacturer,B002226,M12-500ml Mouthwash bottle (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,5000.0
+DAMANSARA,Personal Care Manufacturer,CP01951,M20 Normal Sc Cap -S/White 7380,0.0,0.0,15200.0,0.0,15000.0,0.0,-15000.0,0.0,0.0,0.0,0.0,20000.0,35200.0
+DAMANSARA,Personal Care Manufacturer,CP01952,Tamper Proof Mouthwash Cap  - S/Black,0.0,0.0,11000.0,0.0,10000.0,10000.0,20000.0,0.0,0.0,0.0,58000.0,17000.0,126000.0
+PAHANG ,Household Manufacturer,B001846,M13-1000ml SN (Clear) ,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,20000.0
+PAHANG ,Household Manufacturer,B001847,M13-500ml SN (Clear) Dishwash,10000.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0,40000.0
+PAHANG ,Household Manufacturer,B002094,M11-2-500ml-A (Clear),0.0,10000.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0
+PAHANG ,Household Manufacturer,B002112,C11-1000ml PP Bottle (Natural) ,0.0,0.0,0.0,0.0,5000.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+PAHANG ,Household Manufacturer,B002142,M14-500ML-A ( Solid Yellow 5126 ),0.0,0.0,0.0,0.0,0.0,10000.0,0.0,10000.0,0.0,0.0,0.0,0.0,20000.0
+PAHANG ,Household Manufacturer,B002173,M5-300ML (A1) PET Bottle - SN ( Solid Yellow 5126 ) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0
+PAHANG ,Household Manufacturer,CP01811,M1228 Dishwash Flip Top Sc Cap - S/White 7380,10000.0,10000.0,0.0,10000.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,20000.0,60000.0
+PAHANG ,Household Manufacturer,CP01953,D40mm Normal Screw on Cap with Wad- S/Black ,0.0,0.0,0.0,0.0,5000.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SEREMBAN,Personal Care manufacturer,B000368,M2-150ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,10000.0
+SEREMBAN,Personal Care manufacturer,CP00827,MP2427 F/Top Smooth (8) Sc Cap -P/White 01674,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,10000.0
+SEREMBAN,Personal Care manufacturer,CP00845,MP2628 Flip Top  Sc Cap - Transparent,0.0,10000.0,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,10000.0,0.0,0.0,40000.0
+KLANG,Personal Care manufacturer,B000442,M4-125ml LN (Clear),15600.0,0.0,0.0,11800.0,11100.0,0.0,0.0,15400.0,0.0,0.0,0.0,0.0,53900.0
+KLANG,Personal Care manufacturer,B000517,M5-250ml-B1 SN (Clear),0.0,0.0,0.0,45500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45500.0
+KLANG,Personal Care manufacturer,B000561,M5-50ml-B1 LN (Clear),0.0,0.0,174000.0,94000.0,345501.0,239500.0,0.0,49700.0,236300.0,119000.0,0.0,0.0,1258001.0
+KLANG,Personal Care manufacturer,B000575,M6-800ml SN (Clear),0.0,13000.0,0.0,0.0,0.0,10000.0,0.0,19000.0,0.0,0.0,0.0,13500.0,55500.0
+KLANG,Personal Care manufacturer,B000762,M2-200ml SN (S/White 27810) without label,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KLANG,Personal Care manufacturer,B000772,M11-5-250ml PET Bottle (Clear) ,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+KLANG,Personal Care manufacturer,B001166,M1-750ml SN (Clear),40000.0,0.0,20000.0,83000.0,9000.0,51500.0,20800.0,4200.0,22000.0,31500.0,27701.0,23000.0,332701.0
+KLANG,Personal Care manufacturer,B001544,C3-1000ml (S/White 00185),0.0,0.0,13000.0,0.0,12100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25100.0
+KLANG,Personal Care manufacturer,B001576,M5-150ml-B1 LN (Clear),0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,5300.0,0.0,0.0,0.0,10300.0
+KLANG,Personal Care manufacturer,B001687,M3-200ml SN (T/Amber 824),0.0,0.0,0.0,10000.0,10000.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,30000.0
+KLANG,Personal Care manufacturer,B001703,M2-300ml LN (Clear),7700.0,0.0,0.0,0.0,0.0,5900.0,0.0,0.0,9050.0,21150.0,0.0,0.0,43800.0
+KLANG,Personal Care manufacturer,B001886,C3-100ml (WHITE) ,0.0,15080.0,16920.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32000.0
+KLANG,Personal Care manufacturer,B002169,M7-50ml LN ( T/Green 6371 ),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10300.0,0.0,0.0,0.0,10300.0
+KLANG,Personal Care manufacturer,B002170,M7-140ml SN ( T/Green 6371 ),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5400.0,0.0,0.0,0.0,5400.0
+KLANG,Personal Care manufacturer,B002192,M5-30ml-B1 LN (T/Blue 7349),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20200.0,0.0,20200.0
+KLANG,Personal Care manufacturer,CP00588,M363-A  Flip Top Sc Cap T/Yellow 10952,32400.0,35400.0,10000.0,23400.0,0.0,0.0,0.0,0.0,0.0,24300.0,0.0,48150.0,173650.0
+KLANG,Personal Care manufacturer,CP00778,MP2427 F/ Top Smooth ( 4)  Sc Cap -2mm,26100.0,0.0,0.0,23200.0,11100.0,10000.0,0.0,25300.0,0.0,0.0,0.0,10000.0,105700.0
+KLANG,Personal Care manufacturer,CP00901,MP2730  Flip Top Sn Cap - S/White 7380,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10500.0,0.0,145000.0,0.0,165500.0
+KLANG,Personal Care manufacturer,CP00941,MP3033 Flip Top Sn Cap (Talcum) -S/Violet 40036,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10200.0,20200.0
+KLANG,Personal Care manufacturer,CP00984,MP3740  Flip Top Sn Cap (Talcum)-S/Black 2705,0.0,40000.0,20000.0,53000.0,20000.0,13000.0,27500.0,20000.0,51000.0,10100.0,20000.0,30100.0,304700.0
+KLANG,Personal Care manufacturer,CP01636,C1-24 Flip Top Sc Cap -S/Green 63486-1%,5000.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,5300.0,0.0,0.0,0.0,15300.0
+KLANG,Personal Care manufacturer,CP01716,MP3200 Flip Top Sn -(Shampoo ) - S/Red 34071,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,10000.0
+KLANG,Personal Care manufacturer,CP01717,C1-28  Flip Top Sc Cap - S/Pink 33977,0.0,0.0,0.0,0.0,0.0,5900.0,0.0,0.0,9050.0,21150.0,0.0,0.0,36100.0
+KLANG,Personal Care manufacturer,CP01842,C2-24  Flip Top Sc Cap - S/White  7380,0.0,15000.0,17000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32000.0
+KLANG,Personal Care manufacturer,CP01968,M20 Normal Sc Cap - Solid Pearlised Silver 71693,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10300.0,0.0,0.0,0.0,10300.0
+KLANG,Personal Care manufacturer,CP01969,M24410 Flip Top Sc Cap - Solid Pearlised Silver 71693,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5400.0,0.0,0.0,0.0,5400.0
+KLANG,Personal Care manufacturer,CP01970,M1820 Flip Top Sc Cap - S/White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10300.0,0.0,20200.0,0.0,30500.0
+KLANG,Personal Care manufacturer,CP01743,M2023  Flip Top Sc Cap - S/White  7380,-224180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-224180.0
+SHAH ALAM,Personal Care manufacturer,B000542,M5-500ml-B1 (TP) (Clear),5000.0,0.0,0.0,5000.0,5000.0,0.0,0.0,9000.0,6000.0,0.0,0.0,0.0,30000.0
+SHAH ALAM,Personal Care manufacturer,B000988,M5-20ml-A1 SN (Clear) ,5000.0,5000.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,15000.0
+SHAH ALAM,Personal Care manufacturer,CP00296,D28mm Mineral Water Cap - S/White  7380,5000.0,0.0,0.0,5000.0,5000.0,0.0,0.0,9000.0,6000.0,0.0,0.0,0.0,30000.0
+SHAH ALAM,Personal Care manufacturer,CP00532,M20 Normal Sc Cap -S/White7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SHAH ALAM,Personal Care manufacturer,CP01434,M20410 Flip Top Cap ( Transparent ),5000.0,5000.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,15000.0
+SEREMBAN,Household Manufacturer,B001522,M13-500ml SN (Clear) with Labelling (Lime) (F&B) ,0.0,0.0,12000.0,0.0,0.0,12000.0,0.0,25000.0,0.0,0.0,0.0,0.0,49000.0
+SEREMBAN,Household Manufacturer,CP01605,M1228 Dishwash Flip Top Sc Cap - S/White 7380,0.0,0.0,12000.0,0.0,0.0,12000.0,0.0,25000.0,15000.0,0.0,0.0,0.0,64000.0
+KELANTAN,Personal Care manufacturer,B002146,M5-50ML B1 LN (Solid Black) ,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+KELANTAN,Personal Care manufacturer,CP00508,M1820 Flip Top Sc Cap - S/Black 2705,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+PULAU PINANG,Personal Care manufacturer,B000239,M1-150ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12000.0,0.0,0.0,12000.0
+PULAU PINANG,Personal Care manufacturer,B000573,M6-800ml SN (Clear),0.0,0.0,10000.0,10000.0,27000.0,0.0,10000.0,0.0,10000.0,20000.0,0.0,0.0,87000.0
+PULAU PINANG,Personal Care manufacturer,B000614,M10-120g (S/Black 9119),0.0,0.0,0.0,20000.0,80000.0,65000.0,21000.0,0.0,89000.0,20000.0,60000.0,0.0,355000.0
+PULAU PINANG,Personal Care manufacturer,B000617,M10-240g (S/Black 9119),0.0,0.0,0.0,20000.0,0.0,20000.0,0.0,0.0,40000.0,20000.0,20000.0,0.0,120000.0
+PULAU PINANG,Personal Care manufacturer,CP00214,C2-24  Flip Top Sc Cap - S/Green 60677,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12000.0,0.0,0.0,12000.0
+PULAU PINANG,Personal Care manufacturer,CP00493,M10 Jar 120g Cap - S/Black 2705,0.0,0.0,0.0,20000.0,80000.0,65000.0,21000.0,0.0,73400.0,30000.0,60000.0,0.0,349400.0
+PULAU PINANG,Personal Care manufacturer,CP00499,M10 Jar 240g Cap - S/Black 2705,0.0,0.0,0.0,40000.0,0.0,20000.0,0.0,0.0,40000.0,20000.0,20000.0,0.0,140000.0
+PULAU PINANG,Personal Care manufacturer,CP01109,M-Jar 120g Lid - Transparent ,0.0,0.0,0.0,20000.0,80000.0,65000.0,21000.0,0.0,73400.0,30000.0,30000.0,0.0,319400.0
+PULAU PINANG,Personal Care manufacturer,CP01111,M-Jar 240g Lid - Transparent ,0.0,0.0,0.0,40000.0,0.0,20000.0,0.0,0.0,40000.0,20000.0,20000.0,0.0,140000.0
+RAWANG,Personal Care manufacturer,B000973,M5-150ml-B1 SN (T/Amber 33626-2.3%),0.0,0.0,0.0,0.0,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0
+RAWANG,Personal Care manufacturer,B000974,M5-300ml-B1 SN (T/Amber 33626-2%),0.0,6000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6000.0
+RAWANG,Personal Care manufacturer,B001029,M5-30ml-B1 LN (T/Amber 33626-3%),0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+PUCHONG,Personal Care manufacturer,B000457,M5-1000ml-B2 (Clear),0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,2000.0,0.0,6000.0
+PUCHONG,Personal Care manufacturer,B000548,M5-500ml-B1 SN (Clear),0.0,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3000.0
+PUCHONG,Personal Care manufacturer,CP00585,M363-A  Flip Top Sc Cap -Transparent,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
+JOHOR,Household Manufacturer,B001647,M11-5-250ml (Clear),0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,10000.0,10000.0,0.0,0.0,30000.0
+KLANG,unknown,B001687,M3-200ml SN (T/Amber 824),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,10000.0
+KUALA LUMPUR,Personal Care manufacturer,B000233,M1-100ml LN (Clear) Kopen Syampu,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,10000.0
+KUALA LUMPUR,Personal Care manufacturer,B000238,M1-150ml LN (Clear)  ,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KUALA LUMPUR,Personal Care manufacturer,B000482,M5-150ml-B1 LN (Clear) Kopen Bedak,0.0,5000.0,0.0,5000.0,10000.0,0.0,0.0,0.0,10000.0,10000.0,0.0,0.0,40000.0
+KUALA LUMPUR,Personal Care manufacturer,CP01269,C1-20 Flip Top Sc Cap -S/White 7380,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,10000.0
+KUALA LUMPUR,Personal Care manufacturer,CP01611,C1-24 Flip Top Sc Cap - S/White 7380,0.0,5000.0,0.0,10000.0,10000.0,0.0,0.0,0.0,10000.0,10000.0,0.0,0.0,45000.0
+JOHOR,Personal Care manufacturer,CP01156,MP3500 Flip Top Cap -Key Hole ( TYPE B ),54000.0,54000.0,0.0,0.0,0.0,0.0,0.0,0.0,108000.0,0.0,0.0,0.0,216000.0
+SERI KEMBANGAN,Personal Care manufacturer,B000081,LDPE 30ml (S/Pink 31447) c/w Printing,0.0,0.0,0.0,20000.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,30000.0
+SERI KEMBANGAN,Personal Care manufacturer,B000088,LDPE 60ml (Natural) c/w Printing,0.0,42000.0,0.0,50000.0,50000.0,86000.0,52000.0,0.0,65000.0,30000.0,48000.0,0.0,423000.0
+SERI KEMBANGAN,Personal Care manufacturer,B000377,M2-250ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,5000.0
+SERI KEMBANGAN,Personal Care manufacturer,B000480,M5-150ml-A1 SN (S/White 27810)  I'I/White,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,5000.0,5000.0,0.0,5000.0,5000.0,30000.0
+SERI KEMBANGAN,Personal Care manufacturer,B000690,M2-50ml LN (Clear),0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0,30000.0
+SERI KEMBANGAN,Personal Care manufacturer,B000735,M5-50ml (B1) PET Bottle (WHITE) - 2V,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SERI KEMBANGAN,Personal Care manufacturer,B000875,M5-125ml SN PET Bottle - S/White ,0.0,0.0,0.0,0.0,0.0,0.0,23200.0,0.0,10000.0,0.0,0.0,0.0,33200.0
+SERI KEMBANGAN,Personal Care manufacturer,B000897,M2-100ml PET Bottle ( S/White 27810 ) C/W Shrink Label ,0.0,0.0,7110.0,2890.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SERI KEMBANGAN,Personal Care manufacturer,B001711,M11-2-500ml-C (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,13000.0,0.0,0.0,0.0,0.0,13000.0
+SERI KEMBANGAN,Personal Care manufacturer,B001763,M8-1000ml-B (Clear),0.0,0.0,0.0,10000.0,0.0,10000.0,12000.0,0.0,10000.0,8000.0,10000.0,0.0,60000.0
+SERI KEMBANGAN,Personal Care manufacturer,B001909,C3-1000ml HDPE Bottle (S/White 00185),14000.0,12000.0,17000.0,26000.0,0.0,17000.0,0.0,6000.0,0.0,0.0,0.0,0.0,92000.0
+SERI KEMBANGAN,Personal Care manufacturer,B001919,M3-500ml SN (White),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,10000.0
+SERI KEMBANGAN,Personal Care manufacturer,B001920,M2-200ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,20000.0
+SERI KEMBANGAN,Personal Care manufacturer,B002218,C7-400ml HDPE Bottle (Solid White),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0,20000.0
+SERI KEMBANGAN,Personal Care manufacturer,CP00155,C1-24  Flip Top Sc Cap - S/Green 61939,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,15000.0,0.0,25000.0
+SERI KEMBANGAN,Personal Care manufacturer,CP00301,D28mm Nozzel Sc Cap  - S/Green 61229,0.0,42000.0,0.0,50000.0,53200.0,84000.0,52000.0,0.0,70000.0,30000.0,48000.0,0.0,429200.0
+SERI KEMBANGAN,Personal Care manufacturer,CP00541,M2233  Flip Top Sc Cap - S/Pink 31452,0.0,0.0,0.0,20000.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,30000.0
+SERI KEMBANGAN,Personal Care manufacturer,CP01375,C2-24 Flip Top Cap - Transparent ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6855.0,0.0,0.0,6855.0
+SERI KEMBANGAN,Personal Care manufacturer,CP01379,C1-20 Flip Top Cap (S/VIOLET 40390-1%),0.0,0.0,12000.0,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0,42000.0
+SERI KEMBANGAN,Personal Care manufacturer,CP01673,70g PP Jar  - S/Black 2705,10000.0,0.0,7225.0,12775.0,0.0,0.0,12000.0,0.0,10000.0,20000.0,0.0,0.0,72000.0
+SERI KEMBANGAN,Personal Care manufacturer,CP01674,70g PP Jar Cap - S/Black 2705,10000.0,0.0,10000.0,10000.0,0.0,0.0,12000.0,0.0,10000.0,20000.0,0.0,0.0,72000.0
+SERI KEMBANGAN,Personal Care manufacturer,CP01988,M4070  Flip Top Sn Cap - Solid Green 64297 ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0,20000.0
+PUCHONG,Automotive ,B001207,M2-150ml LN (Clear),10000.0,0.0,0.0,0.0,10000.0,0.0,0.0,6000.0,0.0,0.0,0.0,11000.0,37000.0
+PUCHONG,Automotive ,B001746,M9-50ml LN (Clear) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0,0.0,0.0,0.0,0.0,20000.0
+PUCHONG,Automotive ,B001793,M3-500ml SN (Clear),0.0,0.0,20000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17000.0,0.0,37000.0
+PUCHONG,Automotive ,CP00521,M1820 Flip Top Sc Cap - S/White7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25000.0,0.0,0.0,0.0,0.0,25000.0
+PUCHONG,Automotive ,CP01530,MP2427 Flip Top Knurling (8) Sc Cap- 2mm (S/Yellow 1137) ,10000.0,0.0,0.0,0.0,10000.0,0.0,0.0,6000.0,0.0,0.0,0.0,11000.0,37000.0
+BANDAR SUNWAY,Personal Care manufacturer,B000941,M10-200g (T/Green 6274 - A-2%),0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,20000.0
+BANDAR SUNWAY,Personal Care manufacturer,B001011,M5-30ml-B1 LN (T/Green 6274-A),20000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0
+BANDAR SUNWAY,Personal Care manufacturer,B001231,M5-60ml (B1) T/Green 6274-A,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,20000.0
+BANDAR SUNWAY,Personal Care manufacturer,CP00508,M1820 Flip Top Sc Cap - S/Black 2705,20000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0
+BANDAR SUNWAY,Personal Care manufacturer,CP01401,M-Jar 200g Lid - Transparent,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,20000.0
+BANDAR SUNWAY,Personal Care manufacturer,CP01402,M10 Jar 200g Cap - S/Black 2705,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,20000.0
+BANDAR SUNWAY,Personal Care manufacturer,CP01534,M20 Normal Sc Cap -S/Black 2705,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,20000.0
+DAMANSARA,Personal Care manufacturer,B001250,M11-2-500ml-A (T/Amber 33626),0.0,0.0,6200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6200.0
+DAMANSARA,Personal Care manufacturer,B001287,M5-300ml-B1 SN (T/Green 6274 A-4.5%),0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+DAMANSARA,Personal Care manufacturer,B001632,M11-2-300ml SN PET Bottle (T/Amber 33626-7%),6000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6000.0
+DAMANSARA,Personal Care manufacturer,B001926,M5-30ml-B1 LN (T/Amber 33626-5%),0.0,0.0,50001.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50001.0
+DAMANSARA,Personal Care manufacturer,CP00508,M1820 Flip Top Sc Cap - S/Black 2705,0.0,0.0,50001.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50001.0
+KUALA LUMPUR,Personal Care manufacturer,B001793,M3-500ml SN (Clear),0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+KUALA LUMPUR,Personal Care manufacturer,B002091,C7-100ml HDPE Bottle (Solid White,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,15000.0
+KUALA LUMPUR,Personal Care manufacturer,B002092,C7-400ml HDPE Bottle (Solid White),0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,15000.0
+KUALA LUMPUR,Personal Care manufacturer,CP01946,M2855  Flip Top Sn Cap  - Solid White ,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,15000.0
+KUALA LUMPUR,Personal Care manufacturer,CP01947,M4070 Flip Top Sn Cap - Solid White,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,15000.0
+KELANA JAYA,Food & Beverages,CP01934,MP4200 Flip Top Sn -Round  - S/White ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0
+SUBANG JAYA,Personal Care manufacturer,B002066,M11-5-250ml (Clear),10000.0,0.0,20000.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0,50000.0
+SUBANG JAYA,Personal Care manufacturer,B002183,M11-6-500ml (Clear) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,10000.0,0.0,0.0,20000.0
+SUBANG JAYA,Personal Care manufacturer,B002184,C11-2000ml HDPE Bottle (Natural) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,5000.0,0.0,0.0,10000.0
+SUBANG JAYA,Personal Care manufacturer,B002185,C11-1000ml HDPE Bottle (Natural) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,5000.0,0.0,0.0,10000.0
+SUBANG JAYA,Personal Care manufacturer,CP01977,D40mm Normal Screw on Cap with Wad- S/Black ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,5000.0,10000.0,0.0,0.0,20000.0
+KUALA LUMPUR,Personal Care manufacturer,B001132,C6-150ML HDPE Bottle ( S/Pink 30672 ),0.0,0.0,0.0,5100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5100.0
+KUALA LUMPUR,Personal Care manufacturer,B002202,M5-125ml-A1 SN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5050.0,0.0,0.0,5050.0
+KUALA LUMPUR,Personal Care manufacturer,CP01248,M24410 Flip Top Sc Cap - S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5050.0,0.0,0.0,5050.0
+KUALA LUMPUR,Personal Care manufacturer,CP01712,M270  Flip Top Sn Cap -S/Red 31087,0.0,0.0,0.0,5100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5100.0
+KAJANG,Beauty,B002079,M8-1000ml-B (Clear) c/w labelling (F&B),0.0,9000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9000.0
+KUALA LUMPUR,Household Manufacturer,B000684,M13-1000ml SN (Clear) ,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KUALA LUMPUR,Household Manufacturer,CP01476,M1228 Dishwash Flip Top Sc Cap - S/Green 9964,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KEDAH,Household Manufacturer,B000684,M13-1000ml SN (Clear) ,5000.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+KEDAH,Household Manufacturer,B001997,M5-150ML-A1-SN (Solid Black),0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,30000.0,40000.0
+KEDAH,Household Manufacturer,CP00462,M1228 Dishwash Flip Top Sc Cap - S/White 7380,5000.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+KEDAH,Household Manufacturer,CP01619,M24410 Flip Top Sc Cap - Solid Black  ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0
+BALAKONG,Personal Care manufacturer,B000515,M5-250ml-B1 SN (Clear),0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+BALAKONG,Personal Care manufacturer,B000798,M5-400ml-B1 SN (Amber 878-2.8%),15000.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,0.0,0.0,5000.0,40000.0
+BALAKONG,Personal Care manufacturer,B000800,M5-500ml-B1 SN (Solid Grey 9176-4%),0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,15000.0
+BALAKONG,Personal Care manufacturer,B001615,M5-1000ml-B1 (T/Amber 878-3%),0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0
+BALAKONG,Personal Care manufacturer,B001644,M11-2-500ml-A (T/Amber 33626-8%),0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,5000.0,0.0,0.0,5000.0,15000.0
+BALAKONG,Personal Care manufacturer,B002078,M11-2-500ml-C (T/Green 6376),5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+BALAKONG,Personal Care manufacturer,B001651,M5-200ml-B1 SN (T/Amber 878-2.8%),0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,10000.0
+BALAKONG,Personal Care manufacturer,B001762,M5-125ml-B1 SN (T/Amber 878),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,5000.0
+BALAKONG,Personal Care manufacturer,B001820,M5-300ml-B1 SN (T/Amber 878-2.8%),0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+BALAKONG,Personal Care manufacturer,B002086,M11-2-1L-D SN (T/Amber 878),0.0,5000.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+BALAKONG,Personal Care manufacturer,B002188,M5-150ml-B1 SN (T/Green 6376),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,5000.0
+BALAKONG,Personal Care manufacturer,B000201,C2-300ml HDPE (S/White 00185),0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,20000.0
+BALAKONG,Personal Care manufacturer,B000316,M12-300ml Mouthwash bottle (Clear),0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0
+BALAKONG,Personal Care manufacturer,B000574,M6-800ml (Clear),0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,15000.0
+BALAKONG,Personal Care manufacturer,B000670,M8-1000ml-A (Solid White),0.0,10000.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,40000.0
+BALAKONG,Personal Care manufacturer,B001058,M3-200ml SN (T/Amber 824),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,5000.0
+BALAKONG,Personal Care manufacturer,B001221,M5-300ml-B1 SN (T/Amber 824),0.0,5000.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+BALAKONG,Personal Care manufacturer,B001222,M5-500ml-B1 SN (T/Green 6319-6.5%),0.0,10000.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,30000.0
+BALAKONG,Personal Care manufacturer,B001803,M5-100ML (A1) PET Bottle - SN  (S/White) ,0.0,5000.0,0.0,0.0,0.0,5000.0,0.0,10000.0,0.0,0.0,0.0,10000.0,30000.0
+BALAKONG,Personal Care manufacturer,B001812,M11-5-250ml (T/Blue 772) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,5000.0
+BALAKONG,Personal Care manufacturer,B001849,M1-500ml LN (Clear),0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,10000.0
+BALAKONG,Personal Care manufacturer,B002186,M15-750ml (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,3000.0,7000.0,0.0,0.0,0.0,10000.0
+BALAKONG,Personal Care manufacturer,CP00613,M380  Flip Top Sc PCO Cap- -Transparent,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,20000.0
+BALAKONG,Personal Care manufacturer,CP01012,MP3860 Flip Top Sn Cap - S/Blue 52237,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,20000.0
+BALAKONG,Personal Care manufacturer,CP01185,Tamper Proof Mouthwash Cap  - S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0
+KLANG,Household Manufacturer,B000951,M11-3-500ml SN PET Bottle (Clear),0.0,0.0,0.0,50000.0,0.0,0.0,17820.0,0.0,0.0,0.0,0.0,0.0,67820.0
+KLANG,Household Manufacturer,B001082,M5-1000ml (B2) PET Bottle (Clear),0.0,0.0,0.0,20000.0,0.0,0.0,27000.0,0.0,0.0,0.0,0.0,0.0,47000.0
+KLANG,Household Manufacturer,B001994,M3-750ml SN (Clear) c/w Shrinkwrap,-65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-65.0
+SHAH ALAM,Personal Care manufacturer,B001649,M5-100ml-B2 LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,0.0,6000.0
+SHAH ALAM,Personal Care manufacturer,CP01687,C1-20 Flip Top Sc Cap - S/Green 63668-1%,0.0,0.0,0.0,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,0.0,6000.0
+0,Personal Care manufacturer,B000334,M13-1000ml SN (Clear),0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,20000.0
+0,Personal Care manufacturer,B000350,M14-500ML-B (Clear) ,0.0,0.0,0.0,35000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35000.0
+0,Personal Care manufacturer,B000686,M11-1-250ml (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0
+0,Personal Care manufacturer,B002063,M1-200ml SN (Clear),53460.0,0.0,44000.0,56000.0,0.0,0.0,10000.0,0.0,0.0,50001.0,0.0,0.0,213461.0
+0,Personal Care manufacturer,B002116,M5-100ml-B1 SN (Clear),0.0,0.0,0.0,0.0,50000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50000.0
+0,Personal Care manufacturer,CP00463,M1228 Dishwash Flip Top Sc Cap - S/White 7380,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,20000.0
+0,Personal Care manufacturer,CP00589,M363-A  Flip Top Sc Cap -S/Silver 20998,0.0,0.0,0.0,10000.0,10000.0,10000.0,0.0,0.0,20000.0,0.0,0.0,10000.0,60000.0
+0,Personal Care manufacturer,CP01830,2L LLD Sc Cap - Transparent ,20000.0,0.0,0.0,11000.0,10000.0,0.0,25000.0,0.0,0.0,0.0,10000.0,0.0,76000.0
+0,Personal Care manufacturer,CP01831,2L LLD Pourer -Transparent ,20000.0,0.0,0.0,11000.0,10000.0,0.0,25000.0,0.0,0.0,0.0,10000.0,0.0,76000.0
+PULAU PINANG,Personal Care manufacturer,B001568,M3-500ml SN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,120000.0,25000.0,0.0,0.0,145000.0
+PULAU PINANG,Personal Care manufacturer,B001864,M5-50ML B1 LN (T/Amber 8101-7%),0.0,0.0,0.0,0.0,0.0,0.0,0.0,17000.0,0.0,0.0,0.0,0.0,17000.0
+PULAU PINANG,Personal Care manufacturer,B001865,M5-300ml-B1 LN (T/Amber 8101-4%) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10011.0,0.0,0.0,10011.0
+PULAU PINANG,Personal Care manufacturer,B002221,M7-100ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16000.0,0.0,16000.0
+PULAU PINANG,Personal Care manufacturer,CP01826,M1820 Flip Top Sc Cap - S/Black 2705,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17000.0,0.0,0.0,0.0,0.0,17000.0
+PULAU PINANG,Personal Care manufacturer,CP01960,M28410 FT CAP (Orifice 3mm seal ring) - Transparent,0.0,0.0,0.0,0.0,0.0,30800.0,16800.0,14000.0,86000.0,86000.0,0.0,0.0,233600.0
+PULAU PINANG,Personal Care manufacturer,CP01989,C1-20 Flip Top Sc Cap - Transparent ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16000.0,0.0,16000.0
+PANDAN INDAH,Personal Care manufacturer,B001292,M2-50ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,30001.0,0.0,0.0,0.0,0.0,30001.0
+PANDAN INDAH,Personal Care manufacturer,CP01582,C1-20 Flip Top Sc Cap -S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30001.0,0.0,0.0,0.0,0.0,30001.0
+SELANGOR ,Household Manufacturer,B000684,M13-1000ml SN (Clear) ,0.0,0.0,0.0,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0
+SELANGOR ,Household Manufacturer,CP00462,M1228 Dishwash Flip Top Sc Cap - S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0
+DAMANSARA,Household Manufacturer,B001723,M5-1000ml (B2) PET Bottle (Clear),0.0,1000.0,0.0,0.0,0.0,0.0,500.0,0.0,0.0,500.0,0.0,0.0,2000.0
+DAMANSARA,Household Manufacturer,CP00601,M363-A  Flip Top Sc Cap -S/White7380,0.0,1000.0,0.0,0.0,0.0,0.0,500.0,0.0,0.0,500.0,0.0,0.0,2000.0
+SUBANG JAYA,Household Manufacturer,B001930,M5-100ml-B2 SN (T/Amber 878),70000.0,70000.0,140000.0,0.0,100001.0,100001.0,0.0,100001.0,0.0,100001.0,100001.0,0.0,780005.0
+SUBANG JAYA,Household Manufacturer,B002104,M5-150ML-A1-SN (Solid Pearl Grey 9203),0.0,0.0,5070.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10070.0
+PUCHONG,Direct Sales,B001959,M5-30ml-B1 LN (Clear),0.0,0.0,0.0,60000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60000.0
+PUCHONG,Direct Sales,B002163,M5-125ml-B1 LN ( T/Blue 7345 ),0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0
+PUCHONG,Direct Sales,CP01967,C1-24  Flip Top Sc Cap - Solid Black 2705,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SUBANG JAYA,Pharmaceutical ,B000304,M12-100ml Mouthwash bottle (Clear),5000.0,0.0,0.0,0.0,4900.0,5000.0,0.0,5000.0,-13.0,0.0,5000.0,0.0,24887.0
+SUBANG JAYA,Pharmaceutical ,B000317,M12-400ml Mouthwash bottle (Clear),0.0,0.0,0.0,5000.0,4983.0,0.0,0.0,5000.0,-3.0,0.0,5000.0,0.0,19980.0
+SUBANG JAYA,Pharmaceutical ,B000321,M12-500ml Mouthwash bottle (Clear),0.0,0.0,0.0,5000.0,-13.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,9987.0
+SUBANG JAYA,Pharmaceutical ,CP00532,M20 Normal Sc Cap -S/White7380,5000.0,0.0,0.0,1000.0,5000.0,5000.0,0.0,5000.0,-13.0,0.0,5000.0,0.0,25987.0
+SUBANG JAYA,Pharmaceutical ,CP01099,Tamper Proof Mouthwash Cap  - S/White 7380,0.0,0.0,0.0,10000.0,5000.0,0.0,0.0,5000.0,4997.0,0.0,5000.0,0.0,29997.0
+KLANG,Personal Care manufacturer,B000255,M1-750ml SN (Clear),30000.0,0.0,26000.0,125000.0,0.0,40000.0,0.0,0.0,70000.0,34692.0,0.0,50320.0,376012.0
+KLANG,Personal Care manufacturer,B000285,M11-3-500ml (Clear),10000.0,10000.0,0.0,0.0,0.0,13000.0,0.0,0.0,0.0,0.0,0.0,0.0,33000.0
+KLANG,Personal Care manufacturer,B000387,M2-500 SN (Clear),50000.0,0.0,25000.0,0.0,0.0,0.0,39000.0,0.0,0.0,35000.0,43000.0,47000.0,239000.0
+KLANG,Personal Care manufacturer,B000396,M2-50 LN (Clear),0.0,0.0,0.0,0.0,50000.0,21000.0,23000.0,0.0,0.0,0.0,0.0,0.0,94000.0
+KLANG,Personal Care manufacturer,B000454,M5-1000ml-B1 (T/Green 9158),0.0,60340.0,34660.0,20000.0,45000.0,0.0,10000.0,30000.0,15000.0,20000.0,10000.0,0.0,245000.0
+KLANG,Personal Care manufacturer,B000538,M5-400ml-B1 SN (T/Green 9158),30000.0,11000.0,0.0,23000.0,35000.0,26000.0,14000.0,24350.0,21000.0,20000.0,45000.0,20000.0,269350.0
+KLANG,Personal Care manufacturer,B001012,M5-1000ml-B2 (Clear),20000.0,3168.0,10832.0,0.0,29502.0,4498.0,0.0,0.0,0.0,0.0,0.0,0.0,68000.0
+KLANG,Personal Care manufacturer,B001030,M5-100ml-B2 SN (Solid White 27810),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0
+KLANG,Personal Care manufacturer,B001229,M5-60ml (B1) T/Green 6274-A(2%) - Light Weight ,0.0,0.0,0.0,0.0,24500.0,0.0,0.0,9400.0,0.0,0.0,66300.0,0.0,100200.0
+KLANG,Personal Care manufacturer,B001256,M5-100ml-B1 SN (T/Orange 426),10000.0,22000.0,7600.0,2400.0,20000.0,12000.0,20000.0,22000.0,15000.0,10000.0,36000.0,0.0,177000.0
+KLANG,Personal Care manufacturer,B001300,M3-500ml SN (Clear),240000.0,80000.0,240000.0,290000.0,80000.0,80000.0,320000.0,65000.0,0.0,0.0,0.0,0.0,1395000.0
+KLANG,Personal Care manufacturer,B001303,M3-1000ml SN (Clear),240000.0,80000.0,80000.0,239440.0,260560.0,80000.0,233216.0,156784.0,0.0,0.0,0.0,0.0,1370000.0
+KLANG,Personal Care manufacturer,B001669,M1-150ml LN (Clear),5000.0,0.0,0.0,5000.0,0.0,5000.0,0.0,0.0,0.0,5000.0,5000.0,0.0,25000.0
+KLANG,Personal Care manufacturer,B001686,M4-150ml LN (Clear),0.0,5000.0,0.0,7000.0,0.0,0.0,5000.0,0.0,0.0,0.0,5000.0,0.0,22000.0
+KLANG,Personal Care manufacturer,B001827,"M11-7-250ml JB rPET Bottle (Clear) - 30% rPET, 70% vPET",60000.0,0.0,0.0,0.0,0.0,142000.0,0.0,0.0,0.0,0.0,0.0,0.0,202000.0
+KLANG,Personal Care manufacturer,B001837,M5-100ml-B1 SN (T/Blue 7343-3%),0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,20000.0
+KLANG,Personal Care manufacturer,B002055,M11-1-500ml (Clear),90000.0,-226.0,0.0,0.0,89269.0,0.0,0.0,0.0,0.0,0.0,13500.0,0.0,192543.0
+KLANG,Personal Care manufacturer,B002156,M5-1000ml-B2 JB rPET Bottle (Clear),0.0,0.0,0.0,0.0,0.0,0.0,32000.0,0.0,0.0,0.0,35000.0,20000.0,87000.0
+KLANG,Personal Care manufacturer,B002171,M3-500ml SN JB rPET (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,137720.0,62280.0,171990.0,371990.0
+KLANG,Personal Care manufacturer,B002172,M3-1000ml SN JB rPET (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,140000.0,55000.0,220000.0,415000.0
+KLANG,Personal Care manufacturer,B002215,C5-250ml rHDPE Bottle (Solid Pearl White 0919),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,79400.0,0.0,79400.0
+KLANG,Personal Care manufacturer,CP00097,C1-20 Flip Top Sc Cap -S/White 7380,0.0,0.0,0.0,10000.0,50000.0,21000.0,32000.0,0.0,10000.0,0.0,10000.0,0.0,133000.0
+KLANG,Personal Care manufacturer,CP00222,C2-24  Flip Top Sc Cap - Transparent,5000.0,5000.0,0.0,10000.0,0.0,5000.0,5000.0,0.0,5000.0,5000.0,10000.0,0.0,50000.0
+KLANG,Personal Care manufacturer,CP00235,CRC 100ml Mouthwash Cap - White,30000.0,0.0,0.0,30000.0,30000.0,5000.0,28000.0,0.0,30000.0,30000.0,0.0,30000.0,213000.0
+KLANG,Personal Care manufacturer,CP00236,CRC 250ml Mouthwash Cap - S/White 7380,47000.0,0.0,5000.0,0.0,11500.0,5500.0,0.0,5000.0,0.0,10000.0,0.0,14000.0,98000.0
+KLANG,Personal Care manufacturer,CP00237,CRC 500ml Mouthwash Cap - S/White 7380,180000.0,60000.0,0.0,110000.0,135000.0,43500.0,121500.0,67000.0,98000.0,75000.0,125000.0,125000.0,1140000.0
+KLANG,Personal Care manufacturer,CP00239,CRC 750ml Mouthwash Cap - S/White 7380,40500.0,10000.0,10500.0,0.0,20000.0,27450.0,0.0,30400.0,26000.0,33500.0,17500.0,32000.0,247850.0
+KLANG,Personal Care manufacturer,CP01082,D28mm CRC Sc Cap c/w Inner - S/White 7380,50000.0,0.0,21000.0,0.0,0.0,0.0,20000.0,24300.0,0.0,32800.0,40800.0,50001.0,238901.0
+KLANG,Personal Care manufacturer,CP01083,D28mm Insert  - Transparent,50000.0,0.0,21000.0,0.0,0.0,0.0,20000.0,23500.0,0.0,35000.0,43000.0,50001.0,242501.0
+KLANG,Personal Care manufacturer,CP01276,M28410 FT CAP - T/Orange 20546(0.3%),130000.0,0.0,0.0,50000.0,0.0,127200.0,64000.0,64000.0,218300.0,25200.0,0.0,167500.0,846200.0
+KLANG,Personal Care manufacturer,CP01302,M20 Normal Sc Cap -P/Browm 90888,0.0,0.0,0.0,0.0,46500.0,0.0,0.0,10400.0,0.0,0.0,65600.0,0.0,122500.0
+KLANG,Personal Care manufacturer,CP01558,M1820 Flip Top Sc Cap - S/White 7380,25500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25500.0
+KLANG,Personal Care manufacturer,CP01959,MP2427 F/Top Smooth (8) Sc Cap - Solid White ,0.0,0.0,0.0,0.0,28000.0,0.0,0.0,0.0,25000.0,0.0,30000.0,0.0,83000.0
+SHAH ALAM,Pharmaceutical,B000326,M12-750ml Mouthwash bottle (Clear),0.0,0.0,0.0,5000.0,5000.0,0.0,0.0,0.0,0.0,-8.0,0.0,0.0,9992.0
+SHAH ALAM,Pharmaceutical,B001199,M12-250ml Mouthwash bottle (Clear) ,0.0,0.0,6000.0,0.0,13000.0,6700.0,0.0,0.0,0.0,0.0,0.0,0.0,25700.0
+SHAH ALAM,Pharmaceutical,CP01523,Tamper Proof Mouthwash Cap  - S/ Black 2705,0.0,0.0,8000.0,0.0,16000.0,6700.0,0.0,0.0,0.0,0.0,0.0,0.0,30700.0
+PULAU PINANG,Pharmaceutical,B001883,M12-250ml Mouthwash bottle (T/Red 3228-2%) ,0.0,20000.0,0.0,0.0,0.0,0.0,0.0,15000.0,0.0,0.0,0.0,0.0,35000.0
+PULAU PINANG,Pharmaceutical,CP01840,Tamper Proof Mouthwash Cap - S/White 7380,0.0,20000.0,0.0,0.0,0.0,0.0,0.0,15500.0,0.0,0.0,0.0,0.0,35500.0
+0,Personal Care manufacturer,B000232,M1-100ml LN (S/Grey 9129),0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0
+0,Personal Care manufacturer,B000245,M1-300ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,5000.0,15000.0
+0,Personal Care manufacturer,B002085,M1-400ml Long Neck PET Bottle (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,10000.0
+0,Personal Care manufacturer,CP00098,C1-20 Flip Top Sc Cap -S/Silver 20998,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0
+0,Personal Care manufacturer,CP00746,MP2427 Flip Top Knurling (8) Sc Cap,0.0,130000.0,0.0,0.0,80000.0,0.0,0.0,0.0,0.0,50000.0,0.0,0.0,260000.0
+0,Personal Care manufacturer,CP00795,MP2427 F/Top Smooth (8) Sc Cap -S/Silver 20998,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,15000.0
+0,Personal Care manufacturer,CP00930,MP2831-B  Flip Top Smooth Sc PCO - Transparent,30000.0,0.0,0.0,0.0,30000.0,0.0,0.0,20000.0,0.0,0.0,0.0,0.0,80000.0
+PERAK,Trading,CP00791,MP2427 F/Top Smooth (8) Sc Cap -S/Yellow 1137,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30000.0,0.0,30000.0
+PERAK,Trading,CP00991,MP3740 Flip Top Sn Cap (Talcum)- S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,20000.0,0.0,0.0,20000.0,0.0,0.0,40000.0
+SEREMBAN,Household Manufacturer,B000332,M13-1000ml SN (Clear),0.0,15000.0,0.0,0.0,10000.0,10000.0,0.0,10000.0,10000.0,10000.0,0.0,0.0,65000.0
+SEREMBAN,Household Manufacturer,B000643,1KG PE Bottle Cocorex Lemon Fresh (S/Yellow 1132) ,0.0,10000.0,10000.0,0.0,10000.0,0.0,0.0,10000.0,10000.0,0.0,0.0,10000.0,60000.0
+SEREMBAN,Household Manufacturer,B002209,M11-5-250ml (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,200.0,0.0,0.0,200.0
+SEREMBAN,Household Manufacturer,CP00006,2L LLD Sc Cap -S/Yellow 1139,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SEREMBAN,Household Manufacturer,CP00014,2L  PP Sc Cap c/w Wad - S/White  7380,25000.0,0.0,25000.0,25000.0,25000.0,25000.0,25000.0,24270.0,730.0,25000.0,25000.0,0.0,225000.0
+SEREMBAN,Household Manufacturer,CP00018,2L Softerner Sc Cap-S/White7380,20000.0,20000.0,20000.0,40000.0,0.0,20000.0,0.0,0.0,0.0,20000.0,0.0,20000.0,160000.0
+SEREMBAN,Household Manufacturer,CP01921,2L Bio Softener Sc Cap-Transparent ,0.0,0.0,0.0,0.0,0.0,9540.0,0.0,0.0,460.0,0.0,0.0,0.0,10000.0
+SEREMBAN,Household Manufacturer,CP00328,D28mm Refill Normal Sc Cap c/w Wad,0.0,0.0,25000.0,25000.0,25000.0,25000.0,25000.0,25000.0,25000.0,50000.0,0.0,25000.0,250000.0
+SEREMBAN,Household Manufacturer,CP00864,MP2730  Flip Top Sn Cap - S/Yellow 1137,130000.0,0.0,91000.0,0.0,71000.0,100000.0,0.0,63000.0,77000.0,28000.0,60000.0,33400.0,653400.0
+SEREMBAN,Household Manufacturer,CP01121,2L LLD Pourer -S/White7380,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SEREMBAN,Household Manufacturer,CP01147,M1228 Dishwash Flip Top Sc Cap - S/White 7380,30000.0,0.0,10000.0,24000.0,0.0,20000.0,0.0,15000.0,0.0,10000.0,10000.0,0.0,119000.0
+SEREMBAN,Household Manufacturer,CP01161,2L LLD Cap - 1KG COCOREX LLD CAP (S/RED 31291),10000.0,0.0,0.0,10000.0,10000.0,10000.0,0.0,0.0,0.0,20000.0,0.0,0.0,60000.0
+SEREMBAN,Household Manufacturer,CP01162,2L LLD Pourer - 1KG Cocorex Pourer (Transparent),10000.0,0.0,0.0,10000.0,10000.0,10000.0,0.0,0.0,0.0,20000.0,0.0,0.0,60000.0
+SEREMBAN,Household Manufacturer,CP01170,MP2730  Flip Top Sn Cap - S/Orange 20342,0.0,0.0,60000.0,0.0,0.0,75000.0,90000.0,0.0,25000.0,80000.0,10000.0,13100.0,353100.0
+SEREMBAN,Household Manufacturer,CP01922,2L Bio Softener Pourer -S/White 7380,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+KEDAH,Food & Beverages,CP00678,M412 Normal  Cap - S/White 7380,0.0,0.0,0.0,50000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50000.0,100000.0
+KEDAH,Food & Beverages,CP01026,MP4200 Flip Top Sn -Round - S/Orange 20109,0.0,0.0,0.0,100000.0,200000.0,0.0,0.0,100000.0,0.0,0.0,0.0,100000.0,500000.0
+SUBANG JAYA,Pharmaceutical,B000883,M8-1000ml-A (White) c/w label (F&B),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0
+SUBANG JAYA,Pharmaceutical,CP01365,M363-A  Flip Top Sc Cap -S/White7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0
+SHAH ALAM,Personal Care Manufacturer,B000385,M2-500ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,5000.0
+SHAH ALAM,Personal Care Manufacturer,B000495,M5-200ml-A2 SN (T/Black 9171),0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+SHAH ALAM,Personal Care Manufacturer,B000501,M5-200ml-B1 SN (Clear),0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+SHAH ALAM,Personal Care Manufacturer,B000813,M5-250ml-B1 SN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5100.0,5100.0
+SHAH ALAM,Personal Care Manufacturer,B002009,M5-100ml-B2 SN (Clear),10000.0,0.0,0.0,0.0,5000.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,25000.0
+SHAH ALAM,Personal Care Manufacturer,B002118,M5-50ML B1 LN (PET Natural Clear) ,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SHAH ALAM,Personal Care Manufacturer,CP00190,C1-28  Flip Top Sc Cap - S/White  7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,5000.0
+SHAH ALAM,Personal Care Manufacturer,CP01954,M1820 Flip Top Sc Cap - Transparent,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SELANGOR,Household Manufacturer,B000662,M11-2-500ml-A (Clear),10800.0,11700.0,5400.0,5400.0,0.0,5400.0,0.0,5400.0,-132.0,21100.0,0.0,5040.0,70108.0
+SELANGOR,Household Manufacturer,B001982,M5-500ml-B1 SN (Solid Black 9119),0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0
+SELANGOR,Household Manufacturer,B001997,M5-150ML-A1-SN (Solid Black),0.0,0.0,6000.0,0.0,0.0,0.0,6000.0,0.0,0.0,5000.0,0.0,0.0,17000.0
+SELANGOR,Household Manufacturer,B002061,M5-300ml-B1 SN (S/Black 9119)  ,0.0,0.0,0.0,0.0,0.0,0.0,5060.0,5060.0,0.0,5060.0,0.0,0.0,15180.0
+SELANGOR,Household Manufacturer,CP00845,MP2628 Flip Top  Sc Cap - Transparent,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SHAH ALAM,Personal Care Manufacturer,B000962,M2-50ml LN (Clear),0.0,0.0,20000.0,0.0,10000.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,40000.0
+SHAH ALAM,Personal Care Manufacturer,CP01419,C1-20 Flip Top Sc Cap -S/White 7380,0.0,0.0,20000.0,0.0,10000.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,40000.0
+SERI KEMBANGAN,Personal Care Manufacturer,B001814,M11-2-500ml-B (Clear) ,0.0,0.0,10000.0,0.0,10000.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,30000.0
+SERI KEMBANGAN,Personal Care Manufacturer,B002005,M11-2-500ml-A (Clear),0.0,0.0,10000.0,0.0,15000.0,15000.0,0.0,0.0,0.0,0.0,0.0,0.0,40000.0
+SERI KEMBANGAN,Personal Care Manufacturer,B002014,M5-1000ml-B1 (Clear),0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,10000.0
+SERI KEMBANGAN,Personal Care Manufacturer,B002103,M5-50ml-B1 LN (Clear),0.0,20000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,25000.0
+SERI KEMBANGAN,Personal Care Manufacturer,B002109,M14-500ML-A (PET Natural Clear),0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+SERI KEMBANGAN,Personal Care Manufacturer,B002110,M11-5-250ml (Clear),0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,10000.0
+SERI KEMBANGAN,Personal Care Manufacturer,B002162,M13-1000ml SN (Clear) ,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SERI KEMBANGAN,Personal Care Manufacturer,CP01924,D28mm Refill Normal Sc Cap c/w Wad ( Solid White ),0.0,0.0,0.0,0.0,50000.0,50000.0,0.0,0.0,0.0,0.0,0.0,0.0,100000.0
+SERI KEMBANGAN,Personal Care Manufacturer,CP01966,M1228 Dishwash Flip Top Sc Cap - S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SHAH ALAM,Personal Care Manufacturer,B001534,M4-125ml LN (Clear),25000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,35000.0
+SHAH ALAM,Personal Care Manufacturer,CP01611,C1-24 Flip Top Sc Cap - S/White 7380,25000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,35000.0
+0,Food & Beverages,CP01868,MP3500 Flip Top Sn -Key Hole (TYPE B),0.0,0.0,0.0,0.0,111000.0,84000.0,21000.0,0.0,0.0,0.0,0.0,0.0,216000.0
+JOHOR,Trading,CP00829,MP2427 F/Top Smooth (8) Sc Cap -S/White 7380,0.0,20000.0,0.0,20000.0,0.0,0.0,0.0,20000.0,0.0,0.0,20000.0,0.0,80000.0
+JOHOR,Trading,CP00904,MP2730  Flip Top Sn Cap - S/White 7380,0.0,20000.0,0.0,30000.0,30000.0,0.0,0.0,30000.0,0.0,50000.0,0.0,50000.0,210000.0
+JOHOR,Trading,CP01938,M2846  Flip Top Sn Cap -S/Blue 71161 ,0.0,0.0,30000.0,0.0,30000.0,0.0,0.0,30000.0,0.0,0.0,30000.0,0.0,120000.0
+KAJANG,Personal Care Manufacturer,B000477,M5-125ml-B1 LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KAJANG,Personal Care Manufacturer,CP00171,C1-24  Flip Top Sc Cap - Transparent,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KAJANG,Personal Care Manufacturer,CP00759,MP2427 Flip Top Knurling (8) Sc Cap,0.0,0.0,0.0,0.0,0.0,20000.0,0.0,0.0,20000.0,0.0,20000.0,0.0,60000.0
+PULAU PINANG,Personal Care Manufacturer,B000247,M1-300ml LN (S/White 27810) c/w Label (F&B),10000.0,0.0,0.0,20000.0,20000.0,20000.0,20000.0,0.0,30000.0,10000.0,30000.0,10000.0,170000.0
+PULAU PINANG,Personal Care Manufacturer,B000249,M1-500ml LN (Clear)  ,10000.0,0.0,0.0,10000.0,10000.0,0.0,0.0,10000.0,10000.0,10000.0,20000.0,0.0,80000.0
+PULAU PINANG,Personal Care Manufacturer,B000252,M1-750ml SN (S/White 27810) c/w Label (F&B),90000.0,10960.0,74240.0,124800.0,70000.0,20000.0,40000.0,20000.0,60000.0,20000.0,60000.0,25000.0,615000.0
+PULAU PINANG,Personal Care Manufacturer,B000790,M2-30ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0,0.0,20000.0
+PULAU PINANG,Personal Care Manufacturer,B000791,M2-50ml LN (Clear),30001.0,0.0,0.0,10000.0,30001.0,0.0,0.0,40000.0,40001.0,30001.0,0.0,0.0,180004.0
+PULAU PINANG,Personal Care Manufacturer,B000792,M2-150ml LN (Clear),30001.0,0.0,0.0,30020.0,59980.0,0.0,40000.0,0.0,60000.0,100000.0,0.0,0.0,320001.0
+PULAU PINANG,Personal Care Manufacturer,B000801,M11-2-500ml-C (Clear),20000.0,0.0,15000.0,0.0,25000.0,20000.0,0.0,0.0,45000.0,0.0,25000.0,0.0,150000.0
+PULAU PINANG,Personal Care Manufacturer,B000873,M2-200ml LN (Clear),0.0,0.0,0.0,0.0,70000.0,0.0,0.0,0.0,0.0,10000.0,23400.0,16600.0,120000.0
+PULAU PINANG,Personal Care Manufacturer,B000934,M11-1-500ml (Clear),20000.0,50000.0,40000.0,0.0,40000.0,40000.0,0.0,10000.0,25000.0,50000.0,25000.0,0.0,300000.0
+PULAU PINANG,Personal Care Manufacturer,B001530,M5-500ml-B1 SN (T/Amber 824),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0
+PULAU PINANG,Personal Care Manufacturer,B001912,M9-150ml LN (Clear) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,5000.0
+PULAU PINANG,Personal Care Manufacturer,B002090,M12-250ml Mouthwash Bottle (PET Natural Clear) ,0.0,0.0,5100.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,10100.0
+PULAU PINANG,Personal Care Manufacturer,B002126,M7-140ML LN (S/White),0.0,0.0,0.0,0.0,5250.0,0.0,0.0,0.0,0.0,0.0,5200.0,0.0,10450.0
+PULAU PINANG,Personal Care Manufacturer,CP01289,C1-20 Flip Top Sc Cap -S/Green 61270,0.0,10000.0,0.0,20000.0,0.0,20000.0,0.0,61000.0,0.0,80000.0,0.0,0.0,191000.0
+PULAU PINANG,Personal Care Manufacturer,CP01293,MP2427 F/ Top Smooth ( 4)  Sc Cap -2mm,0.0,80000.0,0.0,0.0,95000.0,72000.0,0.0,50000.0,0.0,100000.0,5000.0,20000.0,422000.0
+PULAU PINANG,Personal Care Manufacturer,CP01681,C1-28  Flip Top Sc Cap - S/Orange 2759,10000.0,0.0,0.0,30000.0,10000.0,20000.0,20000.0,0.0,30000.0,10000.0,30000.0,10000.0,170000.0
+PULAU PINANG,Personal Care Manufacturer,CP01832,MP3740 Flip Top Sn Cap (Talcum)- P/Black 8060R,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,20000.0,0.0,10000.0,40000.0
+PULAU PINANG,Personal Care Manufacturer,CP01945,Tamper Proof Mouthwash Cap  - S/White 7380,0.0,0.0,5100.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,10100.0
+PULAU PINANG,Personal Care Manufacturer,CP01958,C1-24  Flip Top Sc Cap - T/Pink 34554,0.0,0.0,0.0,0.0,5250.0,0.0,0.0,0.0,0.0,0.0,5200.0,0.0,10450.0
+SHAH ALAM,Personal Care Manufacturer,B000279,M11-2-500ml-C (Clear),0.0,24580.0,15030.0,39320.0,32080.0,13920.0,0.0,20000.0,0.0,72040.0,32240.0,114960.0,364170.0
+SHAH ALAM,Personal Care Manufacturer,B000327,M13-1000ml LN (Clear) c/w Label (F&B),0.0,0.0,32000.0,20000.0,139600.0,69940.0,68500.0,7960.0,0.0,10000.0,5000.0,15000.0,368000.0
+SHAH ALAM,Personal Care Manufacturer,B001950,M11-2-1L-D SN (Clear),7200.0,18320.0,12680.0,35400.0,24480.0,9120.0,51040.0,0.0,10000.0,0.0,50100.0,0.0,218340.0
+SHAH ALAM,Personal Care Manufacturer,B000654,M11-5-250ml (Clear) w/o Label,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SHAH ALAM,Personal Care Manufacturer,B000715,M3-100ml LN (Clear) c/w Label (F&B) Bio-Home Laundry Liquid Detergent- Delicate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10020.0,0.0,0.0,0.0,0.0,10020.0
+SHAH ALAM,Personal Care Manufacturer,B001043,M1-750ml SN PET Bottle (Solid White 27810),0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+SHAH ALAM,Personal Care Manufacturer,B001293,M7-50ml LN PET Bottle(Clear) c/w Label (F/B) - Lemon Grass & Green Tea(Thai),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0
+SHAH ALAM,Personal Care Manufacturer,B001808,M5-400ml-B1 SN (Clear),0.0,0.0,0.0,22960.0,0.0,0.0,0.0,0.0,0.0,0.0,24960.0,0.0,47920.0
+SHAH ALAM,Personal Care Manufacturer,B001908,M5-100ML (A1) PET Bottle - SN  (Clear) ,0.0,0.0,0.0,0.0,0.0,0.0,21200.0,15000.0,0.0,0.0,15000.0,10000.0,61200.0
+SHAH ALAM,Personal Care Manufacturer,B002023,M14-500ML-A (PET Natural Clear),0.0,0.0,0.0,15480.0,10080.0,0.0,13500.0,0.0,5040.0,5040.0,0.0,0.0,49140.0
+SHAH ALAM,Personal Care Manufacturer,B002153,M2-50ml LN PET Bottle (Clear),0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,60000.0,56000.0,126000.0
+SHAH ALAM,Personal Care Manufacturer,B002154,C12-300ml rHDPE Bottle (Solid Beige 91640) - 50% rHDPE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0
+SHAH ALAM,Personal Care Manufacturer,B002155,C12-750ml rHDPE Bottle (Solid Beige 91640) - 50% rHDPE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,5000.0,0.0,0.0,0.0,10000.0
+SHAH ALAM,Personal Care Manufacturer,B002211,M5-1000ml-B1 (S/White),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50070.0,13590.0,108580.0,172240.0
+SHAH ALAM,Personal Care Manufacturer,CP00314,D28mm Press On Sc Cap - S/Black 2705,12000.0,0.0,0.0,50000.0,132000.0,22000.0,6000.0,36000.0,24000.0,10000.0,25410.0,0.0,317410.0
+SHAH ALAM,Personal Care Manufacturer,CP01040,Pull On Drink w/o Cover  -S/Yellow 11510,0.0,0.0,32000.0,10000.0,139600.0,64940.0,63500.0,7934.0,0.0,0.0,0.0,0.0,317974.0
+SHAH ALAM,Personal Care Manufacturer,CP01948,C1-28  Flip Top Sc Cap - S/White ,0.0,15000.0,26500.0,22000.0,26500.0,30000.0,0.0,0.0,32000.0,10000.0,40000.0,0.0,202000.0
+SHAH ALAM,Personal Care Manufacturer,CP00470,M1228 Dishwash Flip Top Sc Cap - S/White 7380,0.0,0.0,0.0,10000.0,0.0,5000.0,5000.0,0.0,0.0,10000.0,5000.0,15000.0,50000.0
+SHAH ALAM,Personal Care Manufacturer,CP01465,M363 Flip Top Cap solid green-62975-1%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,5000.0
+SHAH ALAM,Personal Care Manufacturer,CP01587,M20 Normal Sc Cap -S/White7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10020.0,0.0,0.0,0.0,0.0,10020.0
+SHAH ALAM,Personal Care Manufacturer,CP01849,M24410 Flip Top Sc Cap -Transparent,0.0,0.0,0.0,0.0,0.0,0.0,21200.0,15200.0,0.0,0.0,15000.0,10000.0,61400.0
+SHAH ALAM,Personal Care Manufacturer,CP01965,C1-20 Flip Top Sc Cap -S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,10000.0,0.0,60000.0,56000.0,136000.0
+SHAH ALAM,Personal Care Manufacturer,CP01987,D28mm Refill Normal Sc c/w With Wad ( Solid Maroon 32480 ),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,10000.0
+SHAH ALAM,Household Manufacturer,B002081,C11-1000ml PP Bottle (Solid Green 64170) c/w Label (F&B),0.0,30000.0,0.0,-35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29965.0
+SHAH ALAM,Household Manufacturer,CP01942,D40mm Normal Screw on Cap with Wad- S/White7380,0.0,30000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30000.0
+KUALA LUMPUR.,Food & Beverages,CP01045,Pull On Drink - S/Blue 8618,20000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0
+PENANG,Food & Beverages,B000803,Kicap Soya 672ml Round PET Bottle (Clear) ,0.0,0.0,0.0,0.0,30240.0,0.0,30240.0,0.0,0.0,30240.0,30240.0,0.0,120960.0
+PENANG,Food & Beverages,CP01629,M2900  Flip Top Sn Cap,0.0,300000.0,185000.0,0.0,165000.0,310000.0,840000.0,0.0,0.0,190000.0,0.0,270000.0,2260000.0
+PENANG,Food & Beverages,CP01779,MP3500 Flip Top Sn -Round  (TYPE A),48000.0,30000.0,0.0,0.0,60000.0,30000.0,72000.0,0.0,18000.0,15000.0,0.0,0.0,273000.0
+PENANG,Food & Beverages,CP01788,MP3500 Flip Top Sn -Cut Off  (TYPE C),0.0,21000.0,39000.0,0.0,90000.0,0.0,30000.0,0.0,0.0,0.0,0.0,30000.0,210000.0
+PENANG,Food & Beverages,CP01791,MP3500 Flip Top Sn - Key Hole (TYPE B),0.0,0.0,0.0,42000.0,0.0,60000.0,0.0,0.0,0.0,0.0,0.0,30000.0,132000.0
+BALAKONG,Trading,CP00250,D24mm Press On Sc Short- Cap - Transparent,0.0,0.0,0.0,0.0,0.0,40000.0,0.0,9700.0,300.0,0.0,0.0,10000.0,60000.0
+BALAKONG,Trading,CP00557,M2846  Flip Top Sn Cap -Transparent,0.0,0.0,0.0,0.0,20000.0,15800.0,9200.0,0.0,0.0,0.0,0.0,0.0,45000.0
+BALAKONG,Trading,CP00681,M560  Flip Top Sn Cap -S/Black 2705,0.0,30000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30000.0,60000.0
+BALAKONG,Trading,CP00851,MP2730  Flip Top SC Cap - S/White 7380,0.0,0.0,0.0,0.0,0.0,20000.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0
+BALAKONG,Trading,CP00960,MP3200 Flip Top Sn -(Shampoo ) - Transparent,0.0,20000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,20000.0,50000.0
+BALAKONG,Trading,CP01021,MP3860 Flip Top Sn Cap - S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0
+DAMANSARA,Personal Care Manufacturer,B001270,M5-125ml-B1 Short Neck (S/Black 9119),12000.0,29000.0,29160.0,16840.0,39810.0,40190.0,17000.0,40000.0,20000.0,60000.0,34000.0,30000.0,368000.0
+DAMANSARA,Personal Care Manufacturer,B001757,M5-50ml-B1 LN (Clear) c/w labelling ,109000.0,114000.0,0.0,168002.0,88600.0,184401.0,253000.0,125400.0,180000.0,58000.0,0.0,50001.0,1330404.0
+DAMANSARA,Personal Care Manufacturer,B001896,M5-100ml-B2 SN (Solid White) c/w Shrinkwrap,0.0,6000.0,0.0,8000.0,5000.0,5000.0,0.0,0.0,0.0,6000.0,10000.0,0.0,40000.0
+SERI KEMBANGAN,Direct Sales,B000367,M2-150ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,5000.0
+SERI KEMBANGAN,Direct Sales,B000421,M2-60ml LN (Clear),0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,5000.0,0.0,0.0,0.0,10000.0
+SERI KEMBANGAN,Direct Sales,B000700,M5-400ml-B1 SN (Amber 33626),0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+SERI KEMBANGAN,Direct Sales,B001524,M5-1000ml-B2 ( T/Amber 883-5.5% ) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,5000.0
+SERI KEMBANGAN,Direct Sales,B001591,M4-125ml SN (Clear) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,5000.0
+SERI KEMBANGAN,Direct Sales,CP00091,C1-20 Flip Top Sc Cap -S/White 7380,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,5000.0,0.0,0.0,0.0,10000.0
+SERI KEMBANGAN,Direct Sales,CP01708,M24410 Flip Top Sc Cap - Solid Black  ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,5000.0
+SUBANG JAYA,Personal Care Manufacturer,B000260,M11-1-500ml (Clear),40000.0,0.0,5000.0,5000.0,20000.0,0.0,0.0,8400.0,0.0,0.0,0.0,0.0,78400.0
+SUBANG JAYA,Personal Care Manufacturer,B000278,M11-2-500ml-C (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,15000.0,0.0,5760.0,44240.0,0.0,65000.0
+SUBANG JAYA,Personal Care Manufacturer,B000417,M2-60ml LN (Clear),0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,20000.0
+SUBANG JAYA,Personal Care Manufacturer,B000433,M3-750ml SN (Clear),0.0,5000.0,0.0,10000.0,10000.0,22990.0,17000.0,17000.0,0.0,25000.0,24600.0,0.0,131590.0
+SUBANG JAYA,Personal Care Manufacturer,B001604,C7-400ml HDPE Bottle (P/Yellow 11688-1.2%),0.0,10000.0,5000.0,0.0,0.0,0.0,0.0,0.0,15000.0,0.0,0.0,0.0,30000.0
+SUBANG JAYA,Personal Care Manufacturer,B001785,M11-6-500ml (Clear) ,150000.0,50000.0,50000.0,74000.0,0.0,134500.0,15500.0,5500.0,110000.0,0.0,120000.0,100000.0,809500.0
+SUBANG JAYA,Personal Care Manufacturer,B001793,M3-500ml SN (Clear),0.0,20000.0,0.0,20000.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,60000.0
+SUBANG JAYA,Personal Care Manufacturer,B002004,M14-500ML-A (PET Natural Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,15000.0,0.0,0.0,0.0,0.0,15000.0
+SUBANG JAYA,Personal Care Manufacturer,B002097,C3-1000ml (S/White 00185),0.0,5000.0,0.0,0.0,0.0,9000.0,0.0,10000.0,0.0,0.0,0.0,0.0,24000.0
+SUBANG JAYA,Personal Care Manufacturer,B002165,M13-1000ml LN (Clear) with labelling (Front),0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0,0.0,0.0,0.0,0.0,20000.0
+SUBANG JAYA,Personal Care Manufacturer,B002191,M5-400ml-B1 LN (T/Amber 33626 ),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15000.0,0.0,0.0,0.0,15000.0
+SUBANG JAYA,Personal Care Manufacturer,B002206,M8-1000ml-A (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,5000.0
+SUBANG JAYA,Personal Care Manufacturer,CP00134,C1-20 Flip Top Sc Cap - Transparent,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,20000.0
+SUBANG JAYA,Personal Care Manufacturer,CP01515,C1-28  Flip Top Sc Cap - S/Black 2705,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15000.0,0.0,0.0,0.0,15000.0
+SUBANG JAYA,Personal Care Manufacturer,CP01659,M4070  Flip Top Sn Cap - T/Yellow 11689-0.3%,0.0,10000.0,5000.0,0.0,0.0,0.0,0.0,0.0,15000.0,0.0,0.0,0.0,30000.0
+KLANG,Personal Care Manufacturer,B001871,M5-60ml-B1 SN (Clear),10000.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10100.0,0.0,0.0,0.0,30100.0
+KLANG,Personal Care Manufacturer,B002013,M1-150ml SN (Clear),5000.0,0.0,0.0,0.0,0.0,5100.0,0.0,0.0,5100.0,0.0,0.0,0.0,15200.0
+KLANG,Personal Care Manufacturer,CP01907,Tamper Proof Mouthwash Cap  - S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,650.0,0.0,650.0
+JOHOR,Personal Care Manufacturer,CP00021,70g PP Jar  - S/Black 2705,0.0,0.0,0.0,24000.0,12000.0,16150.0,9850.0,23175.0,0.0,18825.0,12000.0,10000.0,126000.0
+JOHOR,Personal Care Manufacturer,CP00752,MP2427 Flip Top Knurling (8) Sc Cap,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0
+JOHOR,Personal Care Manufacturer,CP01182,D24mm Press On Sc Long cap,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0
+JOHOR,Personal Care Manufacturer,CP01646,70g PP Jar Cap - S/Black 2705,0.0,0.0,0.0,24000.0,12000.0,16100.0,9900.0,23175.0,0.0,18825.0,12000.0,10000.0,126000.0
+KELANA JAYA,PET Food,B002076,M5-30ml-B1 LN (Clear),10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+KELANA JAYA,PET Food,CP01941,M1820 Flip Top Sc Cap - S/White7380,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+JOHOR,Personal Care Manufacturer,B000260,M11-1-500ml (Clear),0.0,0.0,50000.0,0.0,50000.0,0.0,0.0,0.0,50001.0,0.0,0.0,0.0,150001.0
+JOHOR,Personal Care Manufacturer,B000417,M2-60ml LN (Clear),200000.0,0.0,0.0,0.0,0.0,200000.0,0.0,0.0,0.0,150000.0,0.0,0.0,550000.0
+JOHOR,Personal Care Manufacturer,B000468,M5-100ml-B2 LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,21000.0,0.0,0.0,0.0,0.0,0.0,21000.0
+JOHOR,Personal Care Manufacturer,B000882,M6-50ml LN (Clear),0.0,0.0,100000.0,100000.0,0.0,50000.0,0.0,0.0,0.0,0.0,0.0,0.0,250000.0
+JOHOR,Personal Care Manufacturer,B002059,M13-1000ml SN (Clear) ,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+JOHOR,Personal Care Manufacturer,CP00134,C1-20 Flip Top Sc Cap - Transparent,22000.0,0.0,100000.0,0.0,50000.0,20000.0,51000.0,20000.0,0.0,30000.0,0.0,0.0,293000.0
+JOHOR,Personal Care Manufacturer,CP00462,M1228 Dishwash Flip Top Sc Cap - S/White 7380,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+JOHOR,Personal Care Manufacturer,CP00731,M2023  Flip Top Sc Cap - S/White  7380,0.0,0.0,0.0,50000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50000.0
+JOHOR,Personal Care Manufacturer,CP01850,D20mm Insert  - Transparent,200000.0,0.0,0.0,0.0,0.0,200000.0,0.0,0.0,0.0,150000.0,0.0,0.0,550000.0
+JOHOR,Personal Care Manufacturer,CP01851,M20 Normal Sc Cap w/o Seal Ring - S/White7380,200000.0,0.0,0.0,0.0,0.0,200000.0,0.0,0.0,0.0,150000.0,0.0,0.0,550000.0
+KUALA LUMPUR,Household Manufacturer,B000209,C3-100ml (S/Pink 32245),10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,20000.0
+KUALA LUMPUR,Household Manufacturer,CP00166,C2-24  Flip Top Sc Cap -T/Pink 32246,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,20000.0
+KLANG,Personal Care Manufacturer,B001237,M5-1000ml-B2 (S/White 27810),5180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7600.0,0.0,0.0,0.0,12780.0
+KLANG,Personal Care Manufacturer,B001694,M10-200g (Solid White) Jar ,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KLANG,Personal Care Manufacturer,B001725,M5-250ml-B1 LN ( S/White 27810 ) C/W Shrink Label ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,5000.0,0.0,10000.0
+KLANG,Personal Care Manufacturer,CP01709,M10 Jar 200g (J5980A) Cap - S/Blue 53595-1%,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KLANG,Personal Care Manufacturer,CP01710,M-Jar 200g Lid - S/White  ,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KLANG,Personal Care Manufacturer,CP01733,C1-24  Flip Top Sc Cap - S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,5000.0,0.0,10000.0
+KUALA PUMPUR,Personal Care Manufacturer,B000563,M5-60ml-B1 SN (Clear),10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+KUALA LUMPUR,Personal Care Manufacturer,B000742,M11-6-500ml (Clear) ,0.0,0.0,12000.0,0.0,0.0,12000.0,0.0,0.0,12000.0,10000.0,-43.0,10000.0,55957.0
+KUALA LUMPUR,Personal Care Manufacturer,B002087,C3-1000ml (S/White 00185),0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,0.0,8000.0,38000.0
+KUALA LUMPUR,Personal Care Manufacturer,B000390,M2-50ml LN (Clear),10000.0,10000.0,0.0,15000.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,45000.0
+KUALA LUMPUR,Personal Care Manufacturer,CP01269,C1-20 Flip Top Sc Cap -S/White 7380,10000.0,10000.0,0.0,15000.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,45000.0
+SHAH ALAM,Trading,B001721,M11-2-500ml-A (Clear),10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,0.0,30000.0
+KLANG,Food & Beverages,CP00967,MP3500 Flip Top Sn - Round ( TYPE A ),0.0,0.0,0.0,0.0,33000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33000.0
+SHAH ALAM,Food & Beverages,CP01047,Pull On Drink - S/Green 90406,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SHAH ALAM,Personal Care Manufacturer,B002085,M1-400ml Long Neck PET Bottle (Clear),5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+SHAH ALAM,Personal Care Manufacturer,CP01943,D28mm Press On Sc Cap - S/Gold 91633-1% ,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KUALA LUMPUR,Food & Beverages,CP01047,Pull On Drink - S/Green 90406,50000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50000.0
+KLANG,Personal Care Manufacturer,B002151,M5-250ml-B1 SN (T/Amber 878),0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KLANG,Personal Care Manufacturer,CP00258,D24mm Press On Sc Short- Cap - S/Black 2705,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KLANG,Personal Care Manufacturer,CP00769,MP2427 Flip Top Knurling (8) Sc Cap,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SHAH ALAM,Personal Care Manufacturer,B000702,M5-100ml-B1 SN (Clear),0.0,0.0,15000.0,0.0,0.0,0.0,20000.0,0.0,0.0,15000.0,0.0,0.0,50000.0
+SHAH ALAM,Personal Care Manufacturer,B001987,M5-500ml-B1 SN (Clear),0.0,10000.0,0.0,0.0,10000.0,0.0,10000.0,10000.0,10000.0,-179.0,0.0,0.0,49821.0
+SHAH ALAM,Personal Care Manufacturer,B001160,M5-300ml-B1 LN (S/White 27810),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,5000.0
+SHAH ALAM,Personal Care Manufacturer,B001704,M5-1000ml-B1 (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,5000.0
+SHAH ALAM,Personal Care Manufacturer,CP01718,M363-B  Flip Top Sc Cap -S/White7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,5000.0
+0,Food & Beverages,B002207,M5-150ML-A1-SN (S/White),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,-4.0,9996.0
+PUCHONG,Personal Care Manufacturer,B002164,M5-500ml-B1 LN (Solid White),0.0,0.0,0.0,0.0,0.0,0.0,0.0,42000.0,0.0,0.0,0.0,0.0,42000.0
+PUCHONG,Personal Care Manufacturer,CP01067,Pull On Drink - S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42000.0,0.0,0.0,0.0,0.0,42000.0
+KLANG,Personal Care Manufacturer,B002147,C11-2000ml HDPE Bottle (Natural) ,0.0,0.0,0.0,0.0,0.0,3100.0,-10.0,0.0,25000.0,12000.0,13000.0,11000.0,64090.0
+KLANG,Personal Care Manufacturer,CP01684,2L LLD Sc Cap -S/Green 61823,32000.0,30000.0,30000.0,30000.0,30000.0,30000.0,0.0,60000.0,0.0,30000.0,30000.0,0.0,302000.0
+KLANG,Personal Care Manufacturer,CP01685,2L LLD Pourer -Transparent ,30000.0,30000.0,30000.0,32000.0,30000.0,30000.0,0.0,60000.0,0.0,30000.0,30000.0,0.0,302000.0
+KLANG,Personal Care Manufacturer,CP01963,D40mm Normal Screw on Cap with Wad- S/White7380,0.0,0.0,0.0,0.0,0.0,3100.0,0.0,0.0,25000.0,12000.0,13000.0,11000.0,64100.0
+SHAH ALAM,Food & Beverages,B000291,M11-3-500ml (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5040.0,0.0,0.0,5040.0
+SHAH ALAM,Food & Beverages,CP00329,D28mm Refill Normal Sc Cap c/w Wad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5040.0,0.0,0.0,5040.0
+BALAKONG,Personal Care Manufacturer,CP00931,MP2831-B  Flip Top Smooth Sc PCO -S/White7380,102000.0,34000.0,44000.0,12000.0,114000.0,52000.0,122000.0,132000.0,0.0,102000.0,44000.0,160000.0,918000.0
+SHAH ALAM,Personal Care Manufacturer,B000193,C1-300ml HDPE BOTTLE (Natural) RJ Natural,0.0,0.0,5060.0,0.0,5060.0,0.0,6000.0,0.0,0.0,5060.0,0.0,0.0,21180.0
+SHAH ALAM,Personal Care Manufacturer,B000312,M12-300ml Mouthwash bottle (Clear),0.0,10080.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10080.0
+SHAH ALAM,Personal Care Manufacturer,B002083,M5-60ml-B1 SN (Clear),10000.0,0.0,0.0,0.0,500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10500.0
+SHAH ALAM,Personal Care Manufacturer,CP00653,M3965  Flip Top Sn Cap (Glossy)-Transparent,0.0,0.0,0.0,0.0,10800.0,0.0,10800.0,0.0,0.0,0.0,0.0,0.0,21600.0
+SHAH ALAM,Personal Care Manufacturer,CP01097,Tamper Proof Mouthwash Cap  - S/White 7380,0.0,10080.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10080.0
+DAMANSARA,Personal Care Manufacturer,B000353,M2-100ml LN (Clear) Franch New Hair Oil,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,10000.0,10000.0,0.0,0.0,40000.0
+DAMANSARA,Personal Care Manufacturer,B000370,M2-200ml LN (Clear),10000.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,30100.0,-809.0,30100.0,0.0,79391.0
+DAMANSARA,Personal Care Manufacturer,B000600,M9-150ml-B1 LN (Clear) Franch Olive Oil,0.0,0.0,0.0,0.0,10000.0,13000.0,0.0,0.0,0.0,0.0,0.0,0.0,23000.0
+DAMANSARA,Personal Care Manufacturer,B000726,M2-60ml LN PET Bottle (PET Natura Clear),0.0,0.0,0.0,14000.0,0.0,0.0,14000.0,0.0,0.0,23000.0,0.0,0.0,51000.0
+DAMANSARA,Personal Care Manufacturer,B001047,M11-1-500ml PET Bottle (Clear) ,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+DAMANSARA,Personal Care Manufacturer,CP00122,C1-20 Flip Top Sc Cap -S/Green 62600,0.0,0.0,0.0,14000.0,0.0,0.0,9700.0,0.0,300.0,22000.0,0.0,0.0,46000.0
+DAMANSARA,Personal Care Manufacturer,CP00123,C1-24 Flip Top Sc Cap -S/Green 62600,0.0,0.0,0.0,0.0,22000.0,10000.0,0.0,0.0,0.0,0.0,0.0,30000.0,62000.0
+DAMANSARA,Personal Care Manufacturer,CP00206,C2-24  Flip Top Sc Cap - S/Orange 20442,0.0,10000.0,10000.0,0.0,20000.0,0.0,0.0,0.0,10000.0,10000.0,20000.0,0.0,80000.0
+KAJANG,Personal Care Manufacturer,CP01305,MP2427 F/Top Smooth (8) Sc Cap -Transparent,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+PULAU PINANG,Trading,CP00992,MP3740 Flip Top Sn Cap (Talcum)- S/White 7380,0.0,15000.0,0.0,0.0,0.0,10000.0,0.0,20000.0,0.0,0.0,0.0,10000.0,55000.0
+PULAU PINANG,Trading,CP01341,MP2427 Flip Top Knurling (8) Sc Cap,0.0,21000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,10000.0,0.0,41000.0
+DAMANSARA,Trading,B000513,M5-250ml-B1 LN (Clear),0.0,0.0,2000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2000.0
+DAMANSARA,Trading,CP00151,C1-24  Flip Top Sc Cap - S/Black 2705,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+BALAKONG,Personal Care Manufacturer,B000695,M2-50ml LN (Clear),0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+BALAKONG,Personal Care Manufacturer,B000696,M2-100ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0
+BALAKONG,Personal Care Manufacturer,B001161,M11-2-300ml SN PET Bottle (T/Amber 33626-5%),0.0,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,5000.0,0.0,0.0,0.0,15000.0
+BALAKONG,Personal Care Manufacturer,B001162,M5-1000ml B1 SN PET Bottle (T/Amber 33626-5%),5000.0,5000.0,5000.0,5000.0,0.0,0.0,5000.0,0.0,5000.0,5000.0,5000.0,0.0,40000.0
+BALAKONG,Personal Care Manufacturer,B001565,M5-300ml-B1 LN (T/Amber 824-3%) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0
+BALAKONG,Personal Care Manufacturer,B001720,M11-2-500ml-D (T/Green 6262),0.0,0.0,0.0,10000.0,0.0,0.0,5000.0,0.0,0.0,5000.0,0.0,0.0,20000.0
+BALAKONG,Personal Care Manufacturer,B001727,M11-2-1L-D SN PET Bottle (T/Green 6262),0.0,0.0,0.0,5000.0,0.0,0.0,4640.0,0.0,0.0,5000.0,0.0,0.0,14640.0
+BALAKONG,Personal Care Manufacturer,B001738,M11-2-500ML (A) PET Bottle (Solid White),0.0,0.0,5000.0,0.0,5000.0,5000.0,0.0,5000.0,5000.0,0.0,0.0,0.0,25000.0
+BALAKONG,Personal Care Manufacturer,B002062,M5-100ML (A1) PET Bottle - SN  (Clear) ,10000.0,0.0,0.0,5000.0,10000.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,35000.0
+BALAKONG,Personal Care Manufacturer,CP00869,C1-20 Flip Top Sc Cap -S/White 7380,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,0.0,0.0,20000.0
+PUCHONG,Personal Care Manufacturer,B000300,M11-6-500ml (Clear) Big Value H/W Cream 500ml,0.0,0.0,5000.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,11000.0,21000.0
+PUCHONG,Personal Care Manufacturer,B000357,M2-100ml LN (Clear),0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0
+PUCHONG,Personal Care Manufacturer,B000373,M2-200ml LN (Clear) Econsave Baby Shampoo,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,10000.0
+PUCHONG,Personal Care Manufacturer,B000576,M6-800ml SN (S/White 27810),0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0
+PUCHONG,Personal Care Manufacturer,B000596,M9-150ml LN (Clear) Econsave Baby Oil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,10000.0
+PUCHONG,Personal Care Manufacturer,B000911,M11-1-500ml (Clear) Sofia H/W Antibac 500ml,0.0,0.0,0.0,10000.0,16000.0,16000.0,16000.0,0.0,0.0,17000.0,0.0,10000.0,85000.0
+PUCHONG,Personal Care Manufacturer,B000923,M11-1-500ml (Clear) Big Value H/W Gel 500ml,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,10000.0
+PUCHONG,Personal Care Manufacturer,B000992,M11-3-500ml (Clear) EVO A/B H/Wash 500ML ,5000.0,0.0,0.0,8000.0,8000.0,0.0,0.0,10000.0,0.0,8000.0,0.0,0.0,39000.0
+PUCHONG,Personal Care Manufacturer,B001898,C3-1000ml (S/White 00185),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,5000.0
+PUCHONG,Personal Care Manufacturer,B001944,M5-100ml-B1 SN (T/Amber 899),0.0,0.0,0.0,0.0,5000.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+PUCHONG,Personal Care Manufacturer,B001957,C3-600ml HDPE Bottle (White) ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,5000.0
+PUCHONG,Personal Care Manufacturer,B002010,M8-1000ml-B (Clear),30000.0,27480.0,40584.0,51936.0,30000.0,30000.0,88000.0,24000.0,40000.0,0.0,40000.0,20000.0,422000.0
+PUCHONG,Personal Care Manufacturer,B002027,M3-750ml SN (Clear) Big Value AB H/W 750ml,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,5000.0
+PUCHONG,Personal Care Manufacturer,B002084,M5-150ml-B1 LN (Clear),5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+PUCHONG,Personal Care Manufacturer,B002120,M5-60ml-B1 SN (T/Amber 899),0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+PUCHONG,Personal Care Manufacturer,B002152,M2-60ml LN (Clear) SJMC Hand Sanitizer 60ml,0.0,0.0,0.0,0.0,0.0,10080.0,0.0,0.0,16000.0,0.0,18000.0,0.0,44080.0
+PUCHONG,Personal Care Manufacturer,CP00034,C1-20  Flip Top Sc Cap -S/Orange 2963,0.0,0.0,0.0,0.0,0.0,0.0,10080.0,0.0,0.0,0.0,10000.0,10000.0,30080.0
+PUCHONG,Personal Care Manufacturer,CP00140,C1-24 Flip Top Sc Cap - S/Yellow 10236,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15000.0,0.0,0.0,0.0,15000.0,30000.0
+PUCHONG,Personal Care Manufacturer,CP00526,M1820 Flip Top Sc Cap - S/Purple 4858,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0,0.0,0.0,0.0,0.0,20000.0
+BALAKONG,Trading,B001242,M13-1000ml SN (Clear) ,12000.0,15000.0,0.0,0.0,0.0,12000.0,0.0,20000.0,0.0,0.0,0.0,0.0,59000.0
+BALAKONG,Trading,CP01542,M1228 Dishwash Flip Top Sc Cap - S/White 7380,12000.0,15000.0,0.0,0.0,0.0,12000.0,0.0,20000.0,0.0,0.0,0.0,0.0,59000.0
+KUALA LUMPUR,Automative,CP00737,MP2427  Flip Top Knurling (4)  2mm Sc Cap,12000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12000.0
+KUALA LUMPUR,Automative,CP00846,MP2628 Knurling Flip Top  Sc Cap - S/White 7380,0.0,0.0,0.0,10000.0,10000.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,30000.0
+KUALA LUMPUR,Automative,CP00915,MP2831-A Flip Top Smooth Sc Cap- S/Black 2705,0.0,10000.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0,0.0,0.0,30000.0
+SETIA ALAM,Pharmaceutical,B000684,M13-1000ml SN (Clear) ,0.0,15000.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25000.0
+SETIA ALAM,Pharmaceutical,B001915,M5-500ml-B1 SN (Clear),0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+SETIA ALAM,Pharmaceutical,B001991,M11-2-500ml-C (Clear),0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+SETIA ALAM,Pharmaceutical,CP00462,M1228 Dishwash Flip Top Sc Cap - S/White 7380,0.0,15000.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25000.0
+BALAKONG,Pharmaceutical,B001929,M13-1000ml SN (Clear) ,6500.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,16500.0
+BALAKONG,Pharmaceutical,CP01869,M1228 Dishwash Flip Top Sc Cap - S/Green 9964,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,20000.0
+SHAH ALAM,Food & Beverages,CP00579,M340  Flip Top Sn Cap -S/Orange 20109,0.0,18000.0,78000.0,2000.0,102000.0,0.0,160000.0,92000.0,78000.0,0.0,0.0,0.0,530000.0
+SHAH ALAM,Food & Beverages,CP00668,M412 Tamper Proof Cap - S/Yellow 1137,0.0,0.0,26000.0,74000.0,0.0,0.0,50000.0,0.0,0.0,0.0,0.0,99000.0,249000.0
+SHAH ALAM,Food & Beverages,CP00975,MP3500 Flip Top Sn -Round (TYPE A),0.0,102000.0,0.0,102000.0,0.0,171000.0,33000.0,102000.0,45700.0,208300.0,0.0,0.0,764000.0
+PUCHONG,Personal Care Manufacturer,B000935,M13-750ML PET Bottle SN Solid Orange-438-7%,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,10000.0
+PUCHONG,Personal Care Manufacturer,CP00462,M1228 Dishwash Flip Top Sc Cap - S/White 7380,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,10000.0
+PUCHONG,Personal Care Manufacturer,CP00804,MP2427 F/Top Smooth (8) Sc Cap -S/Silver 70487,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0,0.0,0.0,0.0,30000.0
+PUCHONG,Personal Care Manufacturer,B001310,M13-1000ml LN (Clear) ,0.0,5000.0,0.0,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,0.0,11000.0
+PUCHONG,Personal Care Manufacturer,CP00652,M3965  Flip Top Sn Cap (Glossy)-S/Purple 4613,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0,0.0,0.0,20000.0
+PUCHONG,Personal Care Manufacturer,CP01897,M28410 FT CAP (Orifice 3mm seal ring) - S/Green 9964,10000.0,0.0,0.0,0.0,23000.0,0.0,34000.0,55000.0,56000.0,27000.0,0.0,0.0,205000.0
+PUCHONG,Personal Care Manufacturer,CP01936,C1-28 Flip Top Cap - Solid Red 30743,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15000.0,0.0,0.0,0.0,15000.0
+JOHOR,Personal Care Manufacturer,CP00150,C1-24  Flip Top Sc Cap - S/Black 2705,0.0,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+BALAKONG,Personal Care Manufacturer,B000452,M5-1000ml-B1 (Clear),5000.0,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0,35000.0
+BALAKONG,Personal Care Manufacturer,B000458,M5-1000ml-B2 (S/White 27810),0.0,0.0,0.0,10000.0,0.0,10000.0,0.0,0.0,10000.0,10000.0,0.0,0.0,40000.0
+BALAKONG,Personal Care Manufacturer,B000504,M5-200ml-B1 SN (S/White 27810),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,10000.0
+BALAKONG,Personal Care Manufacturer,B000531,M5-400ml-B1 LN (S/White 27810),10000.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,20000.0
+BALAKONG,Personal Care Manufacturer,B001682,M11-2-300ml SN PET Bottle (T/Amber 33626-5%),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20000.0,0.0,20000.0
+BALAKONG,Personal Care Manufacturer,B001848,M11-2-500ml-A (T/Amber 866),5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,15000.0
+BALAKONG,Personal Care Manufacturer,CP01181,D28mm Press On Sc Cap -Transparent,10000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+SUBANG JAYA,Personal Care Manufacturer,B000362,M2-150ml LN (Clear),110000.0,78000.0,84000.0,0.0,0.0,168083.0,127917.0,71000.0,0.0,101000.0,0.0,119000.0,859000.0
+SUBANG JAYA,Personal Care Manufacturer,B000397,M2-50ml LN (Clear),155000.0,50000.0,65000.0,123000.0,32000.0,138000.0,52000.0,87000.0,176000.0,63400.0,0.0,141600.0,1083000.0
+SUBANG JAYA,Personal Care Manufacturer,B000627,M2-200ml PET Bottle (LN) - Clear,0.0,0.0,225500.0,0.0,0.0,139932.0,100268.0,0.0,0.0,71000.0,80000.0,90000.0,706700.0
+SUBANG JAYA,Personal Care Manufacturer,B000634,M5-150ML-A1-SN (Clear),81000.0,93000.0,63920.0,81080.0,49000.0,110000.0,76000.0,70500.0,108000.0,119000.0,35000.0,107500.0,994000.0
+SUBANG JAYA,Personal Care Manufacturer,B000751,M2-300ml LN (Clear),24000.0,10000.0,23000.0,10000.0,0.0,20000.0,10000.0,10000.0,0.0,20000.0,0.0,30000.0,157000.0
+SUBANG JAYA,Personal Care Manufacturer,B000898,M5-100ML (A1) PET Bottle - SN  (Clear) ,17500.0,16500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34000.0
+SUBANG JAYA,Personal Care Manufacturer,B001230,M5-100ML (A1) PET Bottle - SN  (Clear) ,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,10000.0,0.0,10000.0,38000.0,78000.0
+SUBANG JAYA,Personal Care Manufacturer,B001547,M5-200ml-A2 SN (Clear),23000.0,10000.0,0.0,33000.0,0.0,30000.0,20000.0,10000.0,22000.0,0.0,20000.0,22000.0,190000.0
+SUBANG JAYA,Personal Care Manufacturer,B001697,M1-500ml SN with 2% UV (T/Green 6274-A),0.0,0.0,31000.0,10000.0,10000.0,42000.0,0.0,20000.0,16000.0,16000.0,10000.0,20000.0,175000.0
+SUBANG JAYA,Personal Care Manufacturer,B001779,M9-50ml LN (Clear) ,60000.0,0.0,20000.0,28000.0,0.0,27000.0,22000.0,0.0,0.0,0.0,0.0,15000.0,172000.0
+SUBANG JAYA,Personal Care Manufacturer,B002089,M5-50ml-A1 SN (T/Amber 33626),0.0,10000.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0,0.0,10000.0,40000.0
+SUBANG JAYA,Personal Care Manufacturer,B002213,M5-150ML-A1-SN (S/White 27810),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13000.0,0.0,0.0,13000.0
+SUBANG JAYA,Personal Care Manufacturer,CP00191,C2-20  Flip Top Sc Cap - S/Beige 30001,124000.0,10000.0,61000.0,70000.0,15000.0,113000.0,11000.0,0.0,149000.0,25500.0,0.0,159500.0,738000.0
+SUBANG JAYA,Personal Care Manufacturer,CP00716,M2023  Flip Top Sc Cap - S/Yellow 1137,228000.0,100000.0,232000.0,105500.0,89500.0,271000.0,279000.0,297500.0,184000.0,368000.0,93000.0,284000.0,2531500.0
+SUBANG JAYA,Personal Care Manufacturer,CP00740,MP2427 Flip Top Knurling (8) Sc Cap- 2mm,241000.0,131000.0,364000.0,70000.0,40000.0,224000.0,418000.0,82000.0,115500.0,251000.0,68000.0,307000.0,2311500.0
+SUBANG JAYA,Personal Care Manufacturer,CP00808,MP2427 F/Top Smooth (8) Sc Cap -S/Green 90324,20000.0,50000.0,29000.0,10000.0,102000.0,63000.0,0.0,10000.0,35000.0,22000.0,32000.0,33000.0,406000.0
+SUBANG JAYA,Personal Care Manufacturer,CP01215,MP2628 Knurling Flip Top  Sc Cap - Transparent,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14000.0,14000.0
+SUBANG JAYA,Personal Care Manufacturer,CP01258,Standard 2831-B Flip Top Knurling Sc PCO Cap ( T/Green 20458-3% ),23000.0,10000.0,23000.0,0.0,0.0,20000.0,10000.0,10000.0,14000.0,20000.0,0.0,21000.0,151000.0
+SUBANG JAYA,Personal Care Manufacturer,CP01527,M3050 Flip Top Sn Cap (Glossy)-S/Black 2705,0.0,0.0,0.0,0.0,0.0,0.0,31000.0,0.0,0.0,0.0,0.0,0.0,31000.0
+SUBANG JAYA,Personal Care Manufacturer,CP01621,M24410 Flip Top Sc Cap - T/Green 63408,39000.0,25000.0,14000.0,13000.0,22000.0,32000.0,20000.0,25000.0,21000.0,42000.0,39000.0,24000.0,316000.0
+SUBANG JAYA,Personal Care Manufacturer,CP01728,Standard 2831-C Flip Top Knurling PCO 3mm Sc Cap - S/Blue 40285,0.0,10000.0,0.0,20000.0,0.0,0.0,0.0,20000.0,18000.0,0.0,0.0,0.0,68000.0
+SUBANG JAYA,Personal Care Manufacturer,CP01768,M1820 Flip Top Sc Cap - T/Blue 20504 ,60000.0,0.0,20000.0,28000.0,0.0,37500.0,22000.0,0.0,0.0,0.0,0.0,15000.0,182500.0
+SUBANG JAYA,Personal Care Manufacturer,CP01944,20410 Refill Normal Sc Cap ( S/Black 2705 ),0.0,10000.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,10000.0,0.0,10000.0,40000.0
+IPOH,Personal Care Manufacturer,B001767,M2-150ml LN (Clear),10000.0,0.0,5000.0,10000.0,5000.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,40000.0
+IPOH,Personal Care Manufacturer,CP00543,M24 Normal  Sc Cap c/w Wad -S/White7380,10000.0,0.0,0.0,10000.0,0.0,0.0,0.0,13000.0,0.0,0.0,0.0,0.0,33000.0
+IPOH,Personal Care Manufacturer,CP01756,MP2427 F/Top Smooth (8) Sc Cap - S/Blue 53607-1%,0.0,0.0,5000.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0
+KAJANG,Personal Care Manufacturer,B000241,M1-150ml SN (T/Blue 7257),0.0,0.0,0.0,5000.0,0.0,10000.0,10000.0,0.0,0.0,0.0,0.0,0.0,25000.0
+KAJANG,Personal Care Manufacturer,B000987,M2-150ml LN (Clear),30000.0,0.0,30000.0,60000.0,80000.0,80000.0,30000.0,30000.0,40000.0,50000.0,40000.0,60000.0,530000.0
+KAJANG,Personal Care Manufacturer,B000989,M2-75ml LN (Clear),10000.0,0.0,0.0,10000.0,10000.0,0.0,10000.0,10000.0,10000.0,20000.0,10000.0,0.0,90000.0
+KAJANG,Personal Care Manufacturer,B001102,M2-200ml LN (Clear),0.0,0.0,0.0,10000.0,10000.0,20000.0,10000.0,10000.0,10000.0,10000.0,10000.0,0.0,90000.0
+KAJANG,Personal Care Manufacturer,B001550,M5-200ml-A2 SN (Clear),0.0,0.0,0.0,0.0,0.0,5000.0,5000.0,0.0,0.0,10000.0,0.0,5000.0,25000.0
+KAJANG,Personal Care Manufacturer,B001914,C3-1000ml (S/White 00185),24520.0,20000.0,20000.0,15000.0,15000.0,0.0,19918.0,0.0,30000.0,10000.0,0.0,0.0,154438.0
+KAJANG,Personal Care Manufacturer,B001964,C10-50ml (S/White 00185) ,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,5000.0,0.0,10000.0
+KAJANG,Personal Care Manufacturer,B002181,M5-150ml (A1) PET Bottle - SN ( S/White 27810 ),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30000.0,0.0,0.0,0.0,30000.0
+KAJANG,Personal Care Manufacturer,CP01432,M2023  Flip Top Sc Cap - T/Green 62987 ,10000.0,10000.0,0.0,10000.0,0.0,10000.0,10000.0,10000.0,0.0,20000.0,10000.0,0.0,90000.0
+KAJANG,Personal Care Manufacturer,CP01433,MP2427 Flip Top Knurling (8) Sc Cap- 2mm ,30000.0,10000.0,50000.0,70000.0,60000.0,110000.0,40000.0,40000.0,50000.0,50000.0,40000.0,70000.0,620000.0
+KAJANG,Personal Care Manufacturer,CP01891,M2233  Flip Top Sc Cap - S/White 7380,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,5000.0,0.0,10000.0
+PERAK,Personal Care Manufacturer,B002082,M5-200ml-B1 SN (Clear),18460.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18460.0
+PERAK,Personal Care Manufacturer,B002088,M11-2-500ml-A (Clear),12600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12600.0
+KEPONG,Personal Care Manufacturer,B001956,M5-250ml-B1 LN (T/Amber 899),0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+KEPONG,Personal Care Manufacturer,B001985,M11-2-500ml-A (T/Amber 899),0.0,0.0,6000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0,11000.0
+KEPONG,Personal Care Manufacturer,CP01245,M24 Normal  Sc Cap c/w Wad -S/Black 2705,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
