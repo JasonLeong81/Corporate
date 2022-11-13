@@ -3,7 +3,29 @@ import pickle
 import threading
 import joblib
 from test_algo import prediction
+import pyodbc
+from datetime import date
 filename = 'model.sav'
+
+
+def connection(query,getResult = True):
+    s = 'DESKTOP-EGO85AB\SQLEXPRESS' #Your server name
+    d = 'chatbot' # database
+    u = 'corp' #Your login
+    p = '123' #Your login password
+    cstr = 'DRIVER={ODBC Driver 17 for SQL Server};SERVER='+s+';DATABASE='+d+';UID='+u+';PWD='+ p
+    conn = pyodbc.connect(cstr)
+    print('CONNECTED!')
+    cursor = conn.cursor()
+    cursor.execute(query)
+    if getResult:
+        result = cursor.fetchall()
+    else:
+        result = None
+    conn.commit()
+    conn.close()
+    return result
+
 
 def order(conn):
     # User will provide item code then we will give them a status (order id, date, item code, quantity, email)
@@ -55,10 +77,13 @@ def order(conn):
             break
         if data == 'e':
             return 0
-
-    reply = 'Your order has been received. Thank you for your order! Have a great day :)'
+    # print(item_code,email,quantity)
+    today = date.today()
+    connection(f"insert into [order](email,Item_code,CreatedOn,Quantity,[Status]) values ('{email}','{item_code}','{today}','{quantity}','Pending')",getResult=False)
+    order_id = connection(f"select id from [order] where email = '{email}'",getResult=True)
+    reply = f'Your order has been received and your order id is "{order_id[0][0]}". Thank you for your order! Have a great day :)'
     conn.sendall(reply.encode())
-    print(item_code,email,quantity)
+
 
 def check_order_status(conn):
     # give them a status (order id, date, item code, quantity, email,employee id)
@@ -72,12 +97,25 @@ def check_order_status(conn):
             conn.sendall(reply.encode())
             continue
         if data != '0':
-            if data == '1':
-                reply = 'Here is your order status:'
+            try:
+                data = int(data)
+            except:
+                print('User did not enter the correct data type of order id.')
+                reply = f'Sorry, the order id "{data}" is not found. Please try again.'
+                conn.sendall(reply.encode())
+                continue
+            order_status = connection(f"select email,item_code,quantity,[status],createdon from [order] where id = '{int(data)}'", getResult=True)
+            if len(order_status) > 0:
+                reply = f'Here is your order status:\n ' \
+                        f'Email: {order_status[0][0]}\n'  \
+                        f'Item Code Ordered: {order_status[0][1]}\n' \
+                        f'Quantity Ordered: {order_status[0][2]}\n' \
+                        f'Order Status: {order_status[0][3]}\n' \
+                        f'Date of order: {order_status[0][4]}\n'
                 conn.sendall(reply.encode())
                 break
             else:
-                reply = f'Sorry, the order id {data} is not found. Please try again.'
+                reply = f'Sorry, the order id "{data}" is not found. Please try again.'
                 conn.sendall(reply.encode())
         if data == 'e':
             return 0
@@ -103,7 +141,7 @@ def Recommend(conn):
         if data == 'e':
             return 0
 
-    reply = 'Can you please state your business product?'
+    reply = 'Can you please state your business product (0-4)?' # we have 5 products
     conn.sendall(reply.encode())
     while True:
         data = conn.recv(1024)
