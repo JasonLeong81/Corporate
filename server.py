@@ -192,19 +192,23 @@ def run(PORT):
         conn, addr = s.accept()
         with conn:
             print(f"Connected by {addr}")
-            conn.sendall(b'Hi there! How can I help you?')
+            conn.sendall(b'Hi there! How can I help you?\n'
+                         b'I can:\n'
+                         b'1) Place an order for you (type "order or 1")\n'
+                         b'2) Check your order status for you (type "check order status or 2")\n'
+                         b'3) Recommend products based on your profile to you (type "recommend or 3")')
             while True:
                 data = conn.recv(1024)
                 data = data.decode()
                 print(f'Response from {addr[0]}:', data)
-                if data.strip().lower() == 'order':
+                if data.strip().lower() == 'order' or data.strip().lower() == '1':
                     order(conn)
-                elif data.strip().lower() == 'check order status':
+                elif data.strip().lower() == 'check order status' or data.strip().lower() == '2':
                     check_order_status(conn)
                 elif data.strip().lower() == 'close':
                     print(f'Connection terminated by {addr}')
                     break
-                elif data.strip().lower() == 'recommend':
+                elif data.strip().lower() == 'recommend' or data.strip().lower() == '3':
                     Recommend(conn)
                 else:
                     reply = 'I am sorry but I do not have an answer to that.'
