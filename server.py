@@ -194,9 +194,9 @@ def run(PORT):
             print(f"Connected by {addr}")
             conn.sendall(b'Hi there! How can I help you?\n'
                          b'I can:\n'
-                         b'1) Place an order for you (type "order or 1")\n'
-                         b'2) Check your order status for you (type "check order status or 2")\n'
-                         b'3) Recommend products based on your profile to you (type "recommend or 3")')
+                         b'1) Place an order for you (type "order" or "1")\n'
+                         b'2) Check your order status for you (type "check order status" or "2")\n'
+                         b'3) Recommend products based on your profile to you (type "recommend" or "3")')
             while True:
                 data = conn.recv(1024)
                 data = data.decode()
