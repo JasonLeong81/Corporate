@@ -106,7 +106,7 @@ def check_order_status(conn):
                 continue
             order_status = connection(f"select email,item_code,quantity,[status],createdon from [order] where id = '{int(data)}'", getResult=True)
             if len(order_status) > 0:
-                reply = f'Here is your order status:\n ' \
+                reply = f'Here is your order status:\n' \
                         f'Email: {order_status[0][0]}\n'  \
                         f'Item Code Ordered: {order_status[0][1]}\n' \
                         f'Quantity Ordered: {order_status[0][2]}\n' \
@@ -151,6 +151,12 @@ def Recommend(conn):
             conn.sendall(reply.encode())
             continue
         if data != '0':
+            try:
+                data = int(data)
+            except:
+                reply = 'Please enter a number.'
+                conn.sendall(reply.encode())
+                continue
             business_product = data
             break
         if data == 'e':
